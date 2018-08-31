@@ -1,0 +1,2898 @@
+<?xml version="1.0"?>
+<ShortcutInformation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ShortcutDetails>
+    <Shortcut>STRG+X</Shortcut>
+    <Description>Ausgewähltes Element ausschneiden</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>STRG+C (oder STRG+EINFG)</Shortcut>
+    <Description>Ausgewähltes Element kopieren</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>STRG+V (oder UMSCHALT+EINFG)</Shortcut>
+    <Description>Ausgewähltes Element einfügen</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>STRG+Z</Shortcut>
+    <Description>Aktion rückgängig machen</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>ALT+TAB</Shortcut>
+    <Description>Zwischen geöffneten Apps wechseln</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>ALT+F4</Shortcut>
+    <Description>Aktives Element schließen oder aktive App beenden</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Windows-Logo-Taste +L</Shortcut>
+    <Description>PC sperren</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Windows-Logo-Taste‌ +D</Shortcut>
+    <Description>Desktop anzeigen und ausblenden</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F2</Shortcut>
+    <Description>Ausgewähltes Element umbenennen</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F3</Shortcut>
+    <Description>Nach einer Datei oder einem Ordner im Datei-Explorer suchen</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F4</Shortcut>
+    <Description>Adressleistenliste im Datei-Explorer anzeigen</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F5</Shortcut>
+    <Description>Aktives Fenster aktualisieren</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F6</Shortcut>
+    <Description>Zwischen Bildschirmelementen in einem Fenster oder auf dem Desktop umschalten</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F10</Shortcut>
+    <Description>Menüleiste in der aktiven App aktivieren</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>ALT+F8</Shortcut>
+    <Description>Ihr Kennwort auf dem Anmeldebildschirm anzeigen</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>ALT+ESC</Shortcut>
+    <Description>Zwischen Elementen in der Reihenfolge</Description>
+    <Usage> in der sie geöffnet wurden</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>ALT+unterstrichener Buchstabe</Shortcut>
+    <Description>Befehl für diesen Buchstaben ausführen</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>ALT+EINGABETASTE</Shortcut>
+    <Description>Eigenschaften für das ausgewählte Element anzeigen</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>ALT+LEERTASTE</Shortcut>
+    <Description>Kontextmenü für das aktive Fenster öffnen</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>ALT+NACH-LINKS</Shortcut>
+    <Description>Zurück</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>ALT+NACH-RECHTS</Shortcut>
+    <Description>Weiter</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>ALT+BILD-AUF</Shortcut>
+    <Description>Um einen Bildschirm nach oben wechseln</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>ALT+BILD-AB</Shortcut>
+    <Description>Um einen Bildschirm nach unten wechseln</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>STRG+F4</Shortcut>
+    <Description>Aktives Dokument schließen (in Apps im Vollbildmodus</Description>
+    <Usage> bei denen mehrere Dokumente gleichzeitig geöffnet sein können)</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>STRG+A</Shortcut>
+    <Description>Alle Elemente in einem Dokument oder Fenster auswählen</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>STRG+D (oder ENTF)</Shortcut>
+    <Description>Ausgewähltes Element löschen und in den Papierkorb verschieben</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>STRG+R (oder F5)</Shortcut>
+    <Description>Aktives Fenster aktualisieren</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>STRG+Y</Shortcut>
+    <Description>Einer Aktion wiederholen</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>STRG+NACH-RECHTS</Shortcut>
+    <Description>Cursor an den Anfang des nächsten Worts verschieben</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>STRG+NACH-LINKS</Shortcut>
+    <Description>Cursor an den Anfang des vorherigen Worts verschieben</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>STRG+NACH-UNTEN</Shortcut>
+    <Description>Cursor an den Anfang des nächsten Absatzes verschieben</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>STRG+NACH-OBEN</Shortcut>
+    <Description>Cursor an den Anfang des vorherigen Absatzes verschieben</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>STRG+ALT+TAB</Shortcut>
+    <Description>Zwischen allen geöffneten Apps mithilfe der Pfeiltasten umschalten</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>STRG+ALT+UMSCHALT+Pfeiltasten</Shortcut>
+    <Description>Eine im Startmenü hervorgehobene Gruppe oder Kachel in die angegebene Richtung verschieben</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>STRG+Pfeiltaste (zum Wechseln zu einem Element)+LEERTASTE</Shortcut>
+    <Description>Mehrere einzelne Elemente in einem Fenster oder auf dem Desktop auswählen</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>STRG+UMSCHALT mit einer Pfeiltaste</Shortcut>
+    <Description>Textblock markieren</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>STRG+ESC</Shortcut>
+    <Description>Menü „Start“ öffnen</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>STRG+UMSCHALT+ESC</Shortcut>
+    <Description>Task-Manager öffnen</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>STRG+UMSCHALT</Shortcut>
+    <Description>Tastaturlayout wechseln (wenn mehrere Tastaturlayouts verfügbar sind)</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>STRG+LEERTASTE</Shortcut>
+    <Description>Eingabemethoden-Editor für Chinesisch aktivieren bzw. deaktivieren</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>UMSCHALT+F10</Shortcut>
+    <Description>Kontextmenüs für das ausgewählte Element anzeigen</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>UMSCHALT mit einer Pfeiltaste</Shortcut>
+    <Description>Mehrere Elemente in einem Fenster oder auf dem Desktop bzw. Text in einem Dokument auswählen</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>UMSCHALT+ENTF</Shortcut>
+    <Description>Ausgewähltes Element ohne vorheriges Verschieben in den Papierkorb löschen</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>NACH-RECHTS-TASTE</Shortcut>
+    <Description>Nächstes Menü rechts des aktuellen Menüs oder Untermenü öffnen</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>NACH-LINKS-TASTE</Shortcut>
+    <Description>Nächstes Menü links des aktuellen Menüs öffnen oder Untermenü schließen</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>ESC</Shortcut>
+    <Description>Aktuelle Aufgabe anhalten oder beenden</Description>
+    <Usage>Windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-X</Shortcut>
+    <Description>Ausschneiden: Ausgewähltes Objekt entfernen und in die Zwischenablage kopieren.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-C</Shortcut>
+    <Description>Kopieren: Ausgewähltes Objekt in die Zwischenablage kopieren. Dies funktioniert auch mit Dateien im Finder.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-V</Shortcut>
+    <Description>Einsetzen: Den Inhalt der Zwischenablage in das aktuelle Dokument oder die aktuelle App einfügen. Dies funktioniert auch mit Dateien im Finder.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Z</Shortcut>
+    <Description>Widerrufen: Den vorherigen Befehl rückgängig machen. Sie können anschließend zum Wiederholen die Tastenkombination Befehlstaste-Umschalttaste-Z drücken</Description>
+    <Usage> um den Widerrufen-Befehl umzukehren. In manchen Apps können Sie mehrere Befehle widerrufen und wiederholen.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-A</Shortcut>
+    <Description>Alle auswählen: Alle Objekte auswählen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-F</Shortcut>
+    <Description>Suchen: Ein Suchfenster öffnen oder Objekte in einem Dokument suchen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-G</Shortcut>
+    <Description>Weitersuchen: Das nächste Auftreten des gefundenen Objekts suchen (vorwärts suchen). Um das vorherige Auftreten zu suchen (rückwärts suchen)</Description>
+    <Usage> drücken Sie Befehlstaste-Umschalttaste-G.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-H</Shortcut>
+    <Description>Ausblenden: Die Fenster der vordersten App ausblenden. Um nur die vorderste App anzuzeigen und alle anderen Apps auszublenden</Description>
+    <Usage> drücken Sie Befehlstaste-Wahltaste-H.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-M</Shortcut>
+    <Description>Im Dock ablegen: Das vorderste Fenster im Dock ablegen. Um alle Fenster der vordersten App im Dock abzulegen</Description>
+    <Usage> drücken Sie Befehlstaste-Wahltaste-M.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-N</Shortcut>
+    <Description>Neu: Ein neues Dokument oder Fenster öffnen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-O</Shortcut>
+    <Description>Öffnen: Das ausgewählte Objekt oder ein Dialogfenster zur Auswahl einer Datei öffnen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-P</Shortcut>
+    <Description>Drucken: Das aktuelle Dokument drucken.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-S</Shortcut>
+    <Description>Sichern: Das aktuelle Dokument sichern.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-W</Shortcut>
+    <Description>Schließen: Das vorderste Fenster schließen. Um alle Fenster der App zu schließen</Description>
+    <Usage> drücken Sie Befehlstaste-Wahltaste-W.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Q</Shortcut>
+    <Description>Beenden: Die App beenden.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Wahltaste-Esc</Shortcut>
+    <Description>Sofort beenden: App auswählen</Description>
+    <Usage> die sofort beendet werden soll. Um nur die vorderste App sofort zu beenden</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Leertaste</Shortcut>
+    <Description>Spotlight: Das Spotlight-Suchfeld ein- oder ausblenden. Um eine Spotlight-Suche aus einem Finder-Fenster durchzuführen</Description>
+    <Usage> drücken Sie Befehlstaste-Wahltaste-Leertaste. Wenn Sie mehrere Eingabequellen verwenden</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Leertaste</Shortcut>
+    <Description>Übersicht: Die Übersicht verwenden</Description>
+    <Usage> um eine Schnellvorschau des ausgewählten Objekts anzuzeigen.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Tabulatortaste</Shortcut>
+    <Description>Apps wechseln: Unter den geöffneten Apps zur zuletzt verwendeten wechseln. </Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-Tilde (~)</Shortcut>
+    <Description>Fenster wechseln: Zum nächsten zuletzt verwendeten Fenster der vordersten App wechseln. </Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-3</Shortcut>
+    <Description>Bildschirmfoto: Ein Bildschirmfoto des gesamten Bildschirms aufnehmen. Hier lernen Sie weitere Bildschirmfoto-Kurzbefehle kennen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Komma (</Shortcut>
+    <Description>)</Description>
+    <Usage>Einstellungen: Einstellungen für die vorderste App öffnen.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Ctrl-Ein-/Ausschalter</Shortcut>
+    <Description>Neustart des Mac erzwingen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Umschalttaste-Ctrl-(Ein-/Ausschalter oder Medienauswurftaste )</Shortcut>
+    <Description>Den Monitor in den Ruhezustand versetzen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Ctrl-Medienauswurftaste </Shortcut>
+    <Description>Alle Apps beenden und den Mac anschließend neu starten. Falls geöffnete Dokumente nicht gesicherte Änderungen enthalten</Description>
+    <Usage> werden Sie gefragt</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Wahltaste-Ctrl-(Ein-/Ausschalter oder Medienauswurftaste )</Shortcut>
+    <Description>Alle Apps beenden und den Mac anschließend ausschalten. Falls geöffnete Dokumente nicht gesicherte Änderungen enthalten</Description>
+    <Usage> werden Sie gefragt</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-Q</Shortcut>
+    <Description>Von Ihrem OS X-Benutzeraccount abmelden. Sie werden aufgefordert</Description>
+    <Usage> dies zu bestätigen.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-Wahltaste-Q</Shortcut>
+    <Description>Sofort von Ihrem OS X-Benutzeraccount abmelden</Description>
+    <Usage> ohne Bestätigungsmeldung.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-B</Shortcut>
+    <Description>Den ausgewählten Text fett formatieren bzw. Fettschrift ein- oder ausschalten. </Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-I</Shortcut>
+    <Description>Den ausgewählten Text kursiv formatieren bzw. Kursivschrift ein- oder ausschalten.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-U</Shortcut>
+    <Description>Den ausgewählten Text unterstrichen formatieren bzw. Unterstreichung ein- oder ausschalten.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-T</Shortcut>
+    <Description>"Das Fenster ""Schriften"" ein- oder ausblenden."</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-D</Shortcut>
+    <Description>"Den Ordner ""Schreibtisch"" in den Dialogfenstern ""Öffnen"" oder ""Sichern"" auswählen."</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Ctrl-D</Shortcut>
+    <Description>Die Definition eines ausgewählten Wortes ein- oder ausblenden.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-Doppelpunkt (:)</Shortcut>
+    <Description>"Fenster ""Rechtschreibung und Grammatik"" einblenden."</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>"Befehlstaste-Semikolon (</Shortcut>
+    <Description>)"</Description>
+    <Usage>Falsch geschriebene Wörter im Dokument suchen.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Wahltaste-Rückschritttaste</Shortcut>
+    <Description>Das Wort links von der Einfügemarke löschen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-H</Shortcut>
+    <Description>Das Zeichen links von der Einfügemarke löschen. Alternativ verwenden Sie die Rückschritttaste.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-D</Shortcut>
+    <Description>Das Zeichen rechts von der Einfügemarke löschen. Alternativ verwenden Sie Fn-Rückschritttaste.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Fn-Rückschritttaste</Shortcut>
+    <Description>Vorwärts löschen auf Tastaturen</Description>
+    <Usage> die keine Entf-Taste  haben. Alternativ verwenden Sie Ctrl-D.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-K</Shortcut>
+    <Description>Text zwischen der Einfügemarke und dem Ende der aktuellen Zeile oder des Absatzes löschen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Rückschritttaste</Shortcut>
+    <Description>"""Löschen"" oder ""Nicht sichern"" in Dialogfenstern mit einer Taste ""Löschen"" oder ""Nicht sichern"" auswählen."</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Fn-Aufwärtspfeil</Shortcut>
+    <Description>Seite nach oben: Eine Seite nach oben blättern. </Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Fn-Abwärtspfeil</Shortcut>
+    <Description>Seite nach unten: Eine Seite nach unten blättern.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Fn-Linkspfeil</Shortcut>
+    <Description>Pos1: Zum Anfang eines Dokuments blättern.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Fn-Rechtspfeil</Shortcut>
+    <Description>Ende: Zum Ende eines Dokuments blättern.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Aufwärtspfeil</Shortcut>
+    <Description>Einfügemarke an den Anfang des Dokuments bewegen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Abwärtspfeil</Shortcut>
+    <Description>Einfügemarke an das Ende des Dokuments bewegen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Linkspfeil</Shortcut>
+    <Description>Einfügemarke an den Anfang der aktuellen Zeile bewegen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Rechtspfeil</Shortcut>
+    <Description>Einfügemarke an das Ende der aktuellen Zeile bewegen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Wahltaste-Linkspfeil</Shortcut>
+    <Description>Einfügemarke an den Anfang des vorhergehenden Wortes bewegen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Wahltaste-Rechtspfeil</Shortcut>
+    <Description>Einfügemarke an das Ende des nächsten Wortes bewegen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-Aufwärtspfeil</Shortcut>
+    <Description>Text zwischen der Einfügemarke und dem Anfang des Dokuments markieren.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-Abwärtspfeil</Shortcut>
+    <Description>Text zwischen der Einfügemarke und dem Ende des Dokuments markieren.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-Linkspfeil</Shortcut>
+    <Description>Text zwischen der Einfügemarke und dem Anfang der aktuellen Zeile markieren.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-Rechtspfeil</Shortcut>
+    <Description>Text zwischen der Einfügemarke und dem Ende der aktuellen Zeile markieren.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Umschalttaste-Aufwärtspfeil</Shortcut>
+    <Description>Textauswahl auf das der aktuellen Position am nächsten liegende Zeichen in der darüberliegenden Zeile erweitern.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Umschalttaste-Abwärtspfeil</Shortcut>
+    <Description>Textauswahl auf das der aktuellen Position am nächsten liegende Zeichen in der darunterliegenden Zeile erweitern.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Umschalttaste-Linkspfeil</Shortcut>
+    <Description>Textauswahl um ein Zeichen nach links erweitern.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Umschalttaste-Rechtspfeil</Shortcut>
+    <Description>Textauswahl um ein Zeichen nach rechts erweitern.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Umschalttaste-Wahltaste-Aufwärtspfeil</Shortcut>
+    <Description>Textauswahl bis zum Anfang des aktuellen Absatzes erweitern</Description>
+    <Usage> bei nochmaligem Drücken bis zum Anfang des nächsten Absatzes.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Umschalttaste-Wahltaste-Abwärtspfeil</Shortcut>
+    <Description>Textauswahl bis zum Ende des aktuellen Absatzes erweitern</Description>
+    <Usage> bei nochmaligem Drücken bis zum Ende des nächsten Absatzes.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Umschalttaste-Wahltaste-Linkspfeil</Shortcut>
+    <Description>Textauswahl bis zum Anfang des aktuellen Wortes erweitern</Description>
+    <Usage> bei nochmaligem Drücken bis zum Anfang des nächsten Wortes.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Umschalttaste-Wahltaste-Rechtspfeil</Shortcut>
+    <Description>Textauswahl bis zum Ende des aktuellen Wortes erweitern</Description>
+    <Usage> bei nochmaligem Drücken bis zum Ende des nächsten Wortes.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-A</Shortcut>
+    <Description>Zum Anfang der Zeile oder des Absatzes bewegen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-E</Shortcut>
+    <Description>Zum Ende einer Zeile oder eines Absatzes bewegen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-F</Shortcut>
+    <Description>Ein Zeichen vor bewegen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-B</Shortcut>
+    <Description>Ein Zeichen zurück bewegen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-L</Shortcut>
+    <Description>Cursor oder Auswahl im sichtbaren Bereich zentrieren.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-P</Shortcut>
+    <Description>Eine Zeile nach oben bewegen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-N</Shortcut>
+    <Description>Eine Zeile nach unten bewegen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-O</Shortcut>
+    <Description>Neue Zeile hinter der Einfügemarke einfügen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-T</Shortcut>
+    <Description>Das Zeichen hinter der Einfügemarke mit dem Zeichen davor austauschen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-linke geschweifte Klammer ({)</Shortcut>
+    <Description>Linksbündig.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-rechte geschweifte Klammer (})</Shortcut>
+    <Description>Rechtsbündig.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-vertikaler Balken (|)</Shortcut>
+    <Description>Zentrieren.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Wahltaste-F</Shortcut>
+    <Description>Zum Suchfeld wechseln. </Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Wahltaste-T</Shortcut>
+    <Description>Symbolleiste in der App ein- oder ausblenden.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Wahltaste-C</Shortcut>
+    <Description>Stil kopieren: Formatierungseinstellungen des ausgewählten Objekts in die Zwischenablage kopieren.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Wahltaste-V</Shortcut>
+    <Description>Stil einsetzen: Die kopierten Formatierungseinstellungen auf das ausgewählte Objekt anwenden.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-Wahltaste-V</Shortcut>
+    <Description>Einsetzen und Stil anpassen: Den Stil des umgebenden Inhalts auf das darin eingesetzte Objekt anwenden.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Wahltaste-I</Shortcut>
+    <Description>"Das Fenster ""Informationen"" ein- oder ausblenden."</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-P</Shortcut>
+    <Description>Papierformat: Ein Fenster zur Auswahl von Dokumenteinstellungen anzeigen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-S</Shortcut>
+    <Description>"Dialogfenster ""Sichern unter"" anzeigen oder aktuelles Dokument duplizieren."</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-</Shortcut>
+    <Description>Ausgewähltes Objekt verkleinern.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Minus-Zeichen (-)    </Shortcut>
+    <Description />
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-</Shortcut>
+    <Description>Ausgewähltes Objekt vergrößern. Befehlstaste-Gleichheitszeichen (=) führt dieselbe Funktion aus.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Plus-Zeichen (+)</Shortcut>
+    <Description />
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-</Shortcut>
+    <Description>Hilfe-Menü öffnen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Fragezeichen (?)</Shortcut>
+    <Description />
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-D</Shortcut>
+    <Description>Ausgewählte Dateien duplizieren.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-E</Shortcut>
+    <Description>Ausgewähltes Laufwerk oder Volume auswerfen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-F</Shortcut>
+    <Description>Eine Spotlight-Suche im Finder-Fenster starten.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-I</Shortcut>
+    <Description>"Fenster ""Informationen"" für eine markierte Datei anzeigen."</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-C</Shortcut>
+    <Description>"Fenster ""Computer"" öffnen."</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-D</Shortcut>
+    <Description>"Ordner ""Schreibtisch"" öffnen."</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-F</Shortcut>
+    <Description>"Fenster ""Alle meine Dateien"" öffnen."</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-G</Shortcut>
+    <Description>"Ein Fenster ""Gehe zum Ordner"" öffnen."</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-H</Shortcut>
+    <Description>Benutzerordner des aktuellen OS X-Benutzeraccounts öffnen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-I</Shortcut>
+    <Description>iCloud Drive öffnen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-K</Shortcut>
+    <Description>"Fenster ""Netzwerk"" öffnen."</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Wahltaste-L</Shortcut>
+    <Description>"Ordner ""Downloads"" öffnen."</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-O</Shortcut>
+    <Description>"Ordner ""Dokumente"" öffnen."</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-R</Shortcut>
+    <Description>"Fenster ""AirDrop"" öffnen."</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-T</Shortcut>
+    <Description>Das ausgewählte Finder-Objekt dem Dock hinzufügen (OS X Mountain Lion oder älter).</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-Ctrl-T</Shortcut>
+    <Description>Das ausgewählte Finder-Objekt dem Dock hinzufügen (OS X Mavericks oder neuer).</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-U</Shortcut>
+    <Description>"Ordner ""Dienstprogramme"" öffnen."</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Wahltaste-D</Shortcut>
+    <Description>Das Dock ein- oder ausblenden. Dies funktioniert häufig auch</Description>
+    <Usage> wenn Sie sich nicht im Finder befinden.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Ctrl-T</Shortcut>
+    <Description>Das ausgewählte Objekt der Seitenleiste hinzufügen (OS X Mavericks oder neuer).</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Wahltaste-P</Shortcut>
+    <Description>Pfadleiste in Finder-Fenstern ein- oder ausblenden.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Wahltaste-S</Shortcut>
+    <Description>Seitenleiste in Finder-Fenstern ein- oder ausblenden.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Schrägstrich (/)</Shortcut>
+    <Description>Statusleiste in Finder-Fenstern ein- oder ausblenden.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-J</Shortcut>
+    <Description>Darstellungsoptionen einblenden.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-K</Shortcut>
+    <Description>"Das Fenster ""Mit Server verbinden"" öffnen."</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-L</Shortcut>
+    <Description>Alias des ausgewählten Objekts erstellen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-N</Shortcut>
+    <Description>Neues Finder-Fenster öffnen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-N</Shortcut>
+    <Description>Neuen Ordner erstellen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Wahltaste-N</Shortcut>
+    <Description>Neuen intelligenten Ordner erstellen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-R</Shortcut>
+    <Description>Originaldatei für das ausgewählte Alias anzeigen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-T</Shortcut>
+    <Description>Tableiste ein- oder ausblenden</Description>
+    <Usage> wenn nur ein Tab im aktuellen Finder-Fenster geöffnet ist.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-T</Shortcut>
+    <Description>Finder-Tab ein- oder ausblenden.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Wahltaste-T</Shortcut>
+    <Description>Symbolleiste ein- oder ausblenden</Description>
+    <Usage> wenn nur ein Tab im aktuellen Finder-Fenster geöffnet ist.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Wahltaste-V</Shortcut>
+    <Description>Bewegen: Die Dateien in der Zwischenablage von ihrem ursprünglichen zum aktuellen Speicherort bewegen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Wahltaste-Y</Shortcut>
+    <Description>In der Übersicht eine Diashow der ausgewählten Dateien anzeigen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Y</Shortcut>
+    <Description>"Die Funktion ""Übersicht"" zum Anzeigen einer Schnellvorschau der ausgewählten Dateien nutzen."</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-1</Shortcut>
+    <Description>Die Objekte im Finder-Fenster als Symbole anzeigen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-2</Shortcut>
+    <Description>Die Objekte im Finder-Fenster als Liste anzeigen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-3</Shortcut>
+    <Description>Die Objekte im Finder-Fenster in Spalten anzeigen. </Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-4</Shortcut>
+    <Description>Die Objekte im Finder-Fenster mit Cover Flow anzeigen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-linke eckige Klammer ([)</Shortcut>
+    <Description>Zum vorherigen Ordner wechseln.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-rechte eckige Klammer (])</Shortcut>
+    <Description>Zum nächsten Ordner wechseln.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Aufwärtspfeil</Shortcut>
+    <Description>Ordner mit dem aktuellen Ordner öffnen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Ctrl-Aufwärtspfeil</Shortcut>
+    <Description>Ordner mit dem aktuellen Ordner in einem neuen Fenster öffnen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Abwärtspfeil</Shortcut>
+    <Description>Ausgewähltes Objekt öffnen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Mission Control</Shortcut>
+    <Description>Den Schreibtisch anzeigen. Dies funktioniert auch</Description>
+    <Usage> wenn Sie sich nicht im Finder befinden.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Helligkeit erhöhen</Shortcut>
+    <Description>Bildschirm-Synchronisationsmodus starten oder beenden.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Helligkeit verringern</Shortcut>
+    <Description>Bildschirmsynchronisation ein- bzw. ausschalten</Description>
+    <Usage> wenn der Mac mit mehr als einem Monitor verbunden ist.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Rechtspfeil </Shortcut>
+    <Description>Ausgewählten Ordner öffnen. Diese Funktion ist nur in der Listendarstellung verfügbar.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Linkspfeil</Shortcut>
+    <Description>Ausgewählten Ordner schließen. Diese Funktion ist nur in der Listendarstellung verfügbar.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Wahltaste-Doppelklick</Shortcut>
+    <Description>Einen Ordner in einem neuen Fenster öffnen und das aktuelle Fenster schließen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Doppelklick</Shortcut>
+    <Description>Einen Ordner in einem neuen Tab oder Fenster öffnen.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Rückschritttaste</Shortcut>
+    <Description>Das markierte Objekt in den Papierkorb verschieben.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-Rückschritttaste</Shortcut>
+    <Description>Den Papierkorb leeren.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Umschalttaste-Wahltaste-Rückschritttaste</Shortcut>
+    <Description>Den Papierkorb ohne Bestätigungsdialog leeren.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Y</Shortcut>
+    <Description>"Die Funktion ""Übersicht"" zum Anzeigen einer Dateivorschau verwenden."</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Wahltaste-Helligkeit erhöhen</Shortcut>
+    <Description>"Systemeinstellung ""Monitore"" öffnen. Dies funktioniert mit beiden Helligkeitstasten."</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Wahltaste-Mission Control</Shortcut>
+    <Description>"Systemeinstellung ""Mission Control"" öffnen."</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Wahltaste-Lauter</Shortcut>
+    <Description>"Systemeinstellung ""Ton"" öffnen. Dies funktioniert mit allen Lautstärketasten."</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste beim Ziehen</Shortcut>
+    <Description>Gezogenes Objekt auf ein anderes Volume oder an einen anderen Speicherort verschieben. Der Mauszeiger ändert sich</Description>
+    <Usage> während Sie das Objekt ziehen.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Wahltaste beim Ziehen</Shortcut>
+    <Description>Gezogenes Objekt kopieren. Der Mauszeiger ändert sich</Description>
+    <Usage> während Sie das Objekt ziehen.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Wahltaste beim Ziehen</Shortcut>
+    <Description>Alias des gezogenen Objekts erstellen. Der Mauszeiger ändert sich</Description>
+    <Usage> während Sie das Objekt ziehen.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Wahltaste-Klick auf ein Erweiterungsdreieck</Shortcut>
+    <Description>Alle Ordner im ausgewählten Ordner öffnen. Diese Funktion ist nur in der Listendarstellung verfügbar.</Description>
+    <Usage>MacOS</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Befehlstaste-Klick auf Fenstertitel</Shortcut>
+    <Description>Ordner anzeigen</Description>
+    <Usage> die den aktuellen Ordner enthalten.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Left Arrow</Shortcut>
+    <Description>Moves the cursor to the left one character</Description>
+    <Usage> extending the selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Alt-Left Arrow</Shortcut>
+    <Description>Moves the cursor to the left one character</Description>
+    <Usage> extending the column selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Right Arrow</Shortcut>
+    <Description>Moves the cursor to the right one character</Description>
+    <Usage> extending the selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Alt-Right Arrow</Shortcut>
+    <Description>Moves the cursor to the right one character</Description>
+    <Usage> extending the column selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-End</Shortcut>
+    <Description>Moves the cursor to the end of the document</Description>
+    <Usage> extending the selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-Home</Shortcut>
+    <Description>Moves the cursor to the start of the document</Description>
+    <Usage> extending the selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-]</Shortcut>
+    <Description>Moves the cursor to the next brace</Description>
+    <Usage> extending the selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Down Arrow</Shortcut>
+    <Description>Moves the cursor down one line</Description>
+    <Usage> extending the selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Alt-Down Arrow</Shortcut>
+    <Description>Moves the cursor down one line</Description>
+    <Usage> extending the column selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-End</Shortcut>
+    <Description>Moves the cursor to the end of the current line</Description>
+    <Usage> extending the selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Alt-End</Shortcut>
+    <Description>Moves the cursor to the end of the line</Description>
+    <Usage> extending the column selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Home</Shortcut>
+    <Description>Moves the cursor to the start of the line</Description>
+    <Usage> extending the selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Alt-Home</Shortcut>
+    <Description>Moves the cursor to the start of the line</Description>
+    <Usage> extending the column selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Up Arrow</Shortcut>
+    <Description>Moves the cursor up one line</Description>
+    <Usage> extending the selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Alt-Up Arrow</Shortcut>
+    <Description>Moves the cursor up one line</Description>
+    <Usage> extending the column selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Page Down</Shortcut>
+    <Description>Extends selection down one page</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Page Up</Shortcut>
+    <Description>Extends selection up one page</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-A</Shortcut>
+    <Description>Selects everything in the current document</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-W</Shortcut>
+    <Description>Selects the word containing the cursor or the word to the right of the cursor</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-=</Shortcut>
+    <Description>Selects from the current location in the editor back to the previous location in the navigation history</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-Page Down</Shortcut>
+    <Description>Moves the cursor to the last line in view</Description>
+    <Usage> extending the selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-Page Up</Shortcut>
+    <Description>Moves the cursor to the top of the current window</Description>
+    <Usage> extending the selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-Alt-Right Arrow</Shortcut>
+    <Description>Moves the cursor to the right one word</Description>
+    <Usage> extending the column selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-Left Arrow</Shortcut>
+    <Description>Moves the cursor one word to the left</Description>
+    <Usage> extending the selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-Alt-Left Arrow</Shortcut>
+    <Description>Moves the cursor to the left one word</Description>
+    <Usage> extending the column selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-X or Shift-Delete</Shortcut>
+    <Description>Cuts the currently selected item to the clipboard</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-C or Ctrl-Insert</Shortcut>
+    <Description>Copies the currently selected item to the clipboard</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-V or Shift-Insert</Shortcut>
+    <Description>Pastes the item in the clipboard at the cursor</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Z or Alt-Backspace</Shortcut>
+    <Description>Undo previous editing action</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Y or Ctrl-Shift-Z</Shortcut>
+    <Description>Redo the previous undo action</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-V or Ctrl-Shift-Insert</Shortcut>
+    <Description>Pastes an item from the clipboard ring tab of the Toolbox at the cursor in the file and automatically selects the pasted item. Cycle through the items on the clipboard by pressing the shortcut keys repeatedly</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Esc</Shortcut>
+    <Description>Closes a menu or dialog</Description>
+    <Usage> cancels an operation in progress</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-S</Shortcut>
+    <Description>Saves the selected files in the current project (usually the file that is being edited)</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-S</Shortcut>
+    <Description>Saves all documents and projects</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-P</Shortcut>
+    <Description>Displays the Print dialog</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F7</Shortcut>
+    <Description>Switches from the design view to the code view in the editor</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-F7</Shortcut>
+    <Description>Switches from the code view to the design view in the editor</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F8</Shortcut>
+    <Description>Moves the cursor to the next item</Description>
+    <Usage> for example in the TaskList window or Find Results window</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-F8</Shortcut>
+    <Description>Moves the cursor to the previous item</Description>
+    <Usage> for example in the TaskList window or Find Results window</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-F12</Shortcut>
+    <Description>Finds a reference to the selected item or the item under the cursor</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-G</Shortcut>
+    <Description>Opens the file whose name is under the cursor or is currently selected</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-/</Shortcut>
+    <Description>Switches focus to the Find/Command box on the Standard toolbar</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-F12</Shortcut>
+    <Description>Moves to the next task in the TaskList window</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-8</Shortcut>
+    <Description>Moves backward in the browse history. Available in the object browser or Class View window</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt-Left Arrow</Shortcut>
+    <Description>Go back in the web browser history</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt-Right Arrow</Shortcut>
+    <Description>Go forward in the web browser history</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Left Arrow</Shortcut>
+    <Description>Moves the cursor one character to the left</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Right Arrow</Shortcut>
+    <Description>Moves the cursor one character to the right</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Down Arrow</Shortcut>
+    <Description>Moves the cursor down one line</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Up Arrow</Shortcut>
+    <Description>Moves the cursor up one line</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Page Down</Shortcut>
+    <Description>Scrolls down one screen in the editor window</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Page Up</Shortcut>
+    <Description>Scrolls up one screen in the editor window</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>End</Shortcut>
+    <Description>Moves the cursor to the end of the current line</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Home</Shortcut>
+    <Description>Moves the cursor to the beginning of the line. If you press Home when the cursor is already at the start of the line</Description>
+    <Usage> it will toggle the cursor between the first non-whitespace character and the real start of the line</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-End</Shortcut>
+    <Description>Moves the cursor to the end of the document</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Home</Shortcut>
+    <Description>Moves the cursor to the start of the document</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-G</Shortcut>
+    <Description>Displays the Go to Line dialog. If the debugger is running</Description>
+    <Usage> the dialog also lets you specify addresses or function names to go to</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-]</Shortcut>
+    <Description>Moves the cursor to the matching brace in the document. If the cursor is on an opening brace</Description>
+    <Usage> this will move to the corresponding closing brace and vice versa</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-K</Shortcut>
+    <Description> Ctrl-N</Description>
+    <Usage>Moves to the next bookmark in the document</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-K</Shortcut>
+    <Description> Ctrl-P</Description>
+    <Usage>Moves to the previous bookmark</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-K</Shortcut>
+    <Description> Ctrl-I</Description>
+    <Usage>Displays Quick Info</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Down Arrow</Shortcut>
+    <Description>Scrolls text down one line but does not move the cursor. This is useful for scrolling more text into view without losing your place. Available only in text editors</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Up Arrow</Shortcut>
+    <Description>Scrolls text up one line but does not move the cursor. Available only in text editors</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Right Arrow</Shortcut>
+    <Description>Moves the cursor one word to the right</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Left Arrow</Shortcut>
+    <Description>Moves the cursor one word to the left</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-1</Shortcut>
+    <Description>Navigates to the next definition</Description>
+    <Usage> declaration</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-2</Shortcut>
+    <Description>Navigates to the previous definition</Description>
+    <Usage> declaration</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Enter</Shortcut>
+    <Description>Inserts a new line</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Delete</Shortcut>
+    <Description>Deletes one character to the right of the cursor</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Insert</Shortcut>
+    <Description>Toggles between insert and overtype insertion modes</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Tab</Shortcut>
+    <Description>Indents the currently selected line or lines by one tab stop. If there is no selection</Description>
+    <Usage> this inserts a tab stop</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Tab</Shortcut>
+    <Description>Moves current line or selected lines one tab stop to the left</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Backspace or Shift-Backspace</Shortcut>
+    <Description>Deletes one character to the left of the cursor</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-K</Shortcut>
+    <Description> Ctrl-C</Description>
+    <Usage>Marks the current line or selected lines of code as a comment</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-K</Shortcut>
+    <Description> Ctrl-U</Description>
+    <Usage>Removes the comment syntax from the current line or currently selected lines of code</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-T or Shift-Enter</Shortcut>
+    <Description>Swaps the characters on either side of the cursor. (For example</Description>
+    <Usage> AC|BD becomes AB|CD.) Available only in text editors</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-K</Shortcut>
+    <Description> Ctrl-L</Description>
+    <Usage>Removes all unnamed bookmarks in the current document</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-M</Shortcut>
+    <Description> Ctrl-O</Description>
+    <Usage>Automatically determines logical boundaries for creating regions in code</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt-Right Arrow or Ctrl-Spacebar</Shortcut>
+    <Description>Displays statement completion based on the current language or autocompletes word if existing text unambiguously identifies a single symbol</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-K</Shortcut>
+    <Description> Ctrl-\</Description>
+    <Usage>Removes horizontal whitespace in the selection or deletes whitespace adjacent to the cursor if there is no selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-K</Shortcut>
+    <Description> Ctrl-F</Description>
+    <Usage>Applies the indenting and space formatting for the language as specified on the Formatting pane of the language in the Text Editor section of the Options dialog to the selected text.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-L</Shortcut>
+    <Description>Cuts all selected lines or the current line if nothing has been selected to the clipboard</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-L</Shortcut>
+    <Description>Deletes all selected lines or the current line if no selection has been made</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Enter</Shortcut>
+    <Description>Inserts a blank line above the cursor</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-Enter</Shortcut>
+    <Description>Inserts a blank line below the cursor</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Alt-T</Shortcut>
+    <Description>Moves the line containing the cursor below the next line</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-J</Shortcut>
+    <Description>Lists members for statement completion when editing code</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-U</Shortcut>
+    <Description>Changes the selected text to lowercase characters</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-U</Shortcut>
+    <Description>Changes the selected text to uppercase characters</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-Spacebar</Shortcut>
+    <Description>Displays a tooltip that contains information for the current parameter</Description>
+    <Usage> based on the current language</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-M</Shortcut>
+    <Description> Ctrl-U</Description>
+    <Usage>Removes the outlining information for the currently selected region</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-M</Shortcut>
+    <Description> Ctrl-P</Description>
+    <Usage>Removes all outlining information from the entire document</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-R</Shortcut>
+    <Description> Ctrl-P</Description>
+    <Usage>Swaps the anchor and endpoint of the current selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-M</Shortcut>
+    <Description> Ctrl-L</Description>
+    <Usage>Toggles all previously marked hidden text sections between hidden and display states</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-K</Shortcut>
+    <Description> Ctrl-K</Description>
+    <Usage>Sets or removes a bookmark at the current line</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-M</Shortcut>
+    <Description> Ctrl-M</Description>
+    <Usage>Toggles the currently selected hidden text section or the section containing the cursor if there is no selection between the hidden and display states</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-K</Shortcut>
+    <Description> Ctrl-H</Description>
+    <Usage>Sets or removes a shortcut in the tasklist to the current line</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-R</Shortcut>
+    <Description> Ctrl-R</Description>
+    <Usage>Enables or disables word wrap in an editor</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-R</Shortcut>
+    <Description> Ctrl-W</Description>
+    <Usage>Shows or hides spaces and tab marks</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Delete</Shortcut>
+    <Description>Deletes the word to the right of the cursor</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Backspace</Shortcut>
+    <Description>Deletes the word to the left of the cursor</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-T</Shortcut>
+    <Description>Transposes the two words that follow the cursor. (For example</Description>
+    <Usage> |End Sub would be changed to read Sub End|.)</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-.[dot]</Shortcut>
+    <Description>Display options on smarttag menu.Very useful for showing using/Imports options.</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Left Arrow</Shortcut>
+    <Description>Moves the cursor to the left one character</Description>
+    <Usage> extending the selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Alt-Left Arrow</Shortcut>
+    <Description>Moves the cursor to the left one character</Description>
+    <Usage> extending the column selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Right Arrow</Shortcut>
+    <Description>Moves the cursor to the right one character</Description>
+    <Usage> extending the selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Alt-Right Arrow</Shortcut>
+    <Description>Moves the cursor to the right one character</Description>
+    <Usage> extending the column selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-End</Shortcut>
+    <Description>Moves the cursor to the end of the document</Description>
+    <Usage> extending the selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-Home</Shortcut>
+    <Description>Moves the cursor to the start of the document</Description>
+    <Usage> extending the selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-]</Shortcut>
+    <Description>Moves the cursor to the next brace</Description>
+    <Usage> extending the selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Down Arrow</Shortcut>
+    <Description>Moves the cursor down one line</Description>
+    <Usage> extending the selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Alt-Down Arrow</Shortcut>
+    <Description>Moves the cursor down one line</Description>
+    <Usage> extending the column selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-End</Shortcut>
+    <Description>Moves the cursor to the end of the current line</Description>
+    <Usage> extending the selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Alt-End</Shortcut>
+    <Description>Moves the cursor to the end of the line</Description>
+    <Usage> extending the column selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Home</Shortcut>
+    <Description>Moves the cursor to the start of the line</Description>
+    <Usage> extending the selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Alt-Home</Shortcut>
+    <Description>Moves the cursor to the start of the line</Description>
+    <Usage> extending the column selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Up Arrow</Shortcut>
+    <Description>Moves the cursor up one line</Description>
+    <Usage> extending the selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Alt-Up Arrow</Shortcut>
+    <Description>Moves the cursor up one line</Description>
+    <Usage> extending the column selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Page Down</Shortcut>
+    <Description>Extends selection down one page</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Page Up</Shortcut>
+    <Description>Extends selection up one page</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-A</Shortcut>
+    <Description>Selects everything in the current document</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-W</Shortcut>
+    <Description>Selects the word containing the cursor or the word to the right of the cursor</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-=</Shortcut>
+    <Description>Selects from the current location in the editor back to the previous location in the navigation history</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-Page Down</Shortcut>
+    <Description>Moves the cursor to the last line in view</Description>
+    <Usage> extending the selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-Page Up</Shortcut>
+    <Description>Moves the cursor to the top of the current window</Description>
+    <Usage> extending the selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-Alt-Right Arrow</Shortcut>
+    <Description>Moves the cursor to the right one word</Description>
+    <Usage> extending the column selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-Left Arrow</Shortcut>
+    <Description>Moves the cursor one word to the left</Description>
+    <Usage> extending the selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-Alt-Left Arrow</Shortcut>
+    <Description>Moves the cursor to the left one word</Description>
+    <Usage> extending the column selection</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-B </Shortcut>
+    <Description>Builds the solution</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-N</Shortcut>
+    <Description>Displays the New File dialog. Note: files created this way are not associated with a project. Use Ctrl-Shift-A to add a new file in a project</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-N</Shortcut>
+    <Description>Displays the New Project dialog</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-O</Shortcut>
+    <Description>Displays the Open File dialog</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-O</Shortcut>
+    <Description>Displays the Open Project dialog</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Alt-A</Shortcut>
+    <Description>Displays the Add Existing Item dialog</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-A</Shortcut>
+    <Description>Displays the Add New Item dialog</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-Insert</Shortcut>
+    <Description>Allows you to override base class methods in a derived class when an overridable method is highlighted in the Class View pane</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Alt-Enter</Shortcut>
+    <Description>Toggles full screen mode</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-+</Shortcut>
+    <Description>Goes back to the previous location in the navigation history. (For example</Description>
+    <Usage> if you press Ctrl-Home to go to the start of a document</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-+</Shortcut>
+    <Description>Moves forward in the navigation history. This is effectively an undo for the View.NavigateBackward operation</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-F4</Shortcut>
+    <Description>Closes the current MDI child window</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Esc</Shortcut>
+    <Description>Closes the current tool window</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-F2</Shortcut>
+    <Description>Moves the cursor to the navigation bar at the top of a code view</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Tab </Shortcut>
+    <Description>Cycles through the MDI child windows one window at a time</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-F6</Shortcut>
+    <Description>Ctrl-Shift-Tab</Description>
+    <Usage>Moves to the previous MDI child window</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt-F6</Shortcut>
+    <Description>Ctrl-Shift-F6</Description>
+    <Usage>Moves to the next tool window</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Alt-F6</Shortcut>
+    <Description>Moves to the previously selected window</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F6</Shortcut>
+    <Description>Moves to the next pane of a split pane view of a single document</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-F6</Shortcut>
+    <Description>Moves to the previous pane of a document in split pane view</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Pagedown</Shortcut>
+    <Description>Moves to the next tab in the document or window (e.g.</Description>
+    <Usage> you can use this to switch the HTML editor from its design view to its HTML view</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-PageUp</Shortcut>
+    <Description>Moves to the previous tab in the document or window</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Down Arrow</Shortcut>
+    <Description>Moves the selected control down in increments of one on the design surface</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Down Arrow</Shortcut>
+    <Description>Moves the selected control down to the next grid position on the design surface</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Left Arrow</Shortcut>
+    <Description>Moves the control to the left in increments of one on the design surface</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Left Arrow</Shortcut>
+    <Description>Moves the control to the left to the next grid position on the design surface</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Right Arrow</Shortcut>
+    <Description>Moves the control to the right in increments of one on the design surface</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Right Arrow</Shortcut>
+    <Description>Moves the control to the right into the next grid position on the design surface</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Up Arrow</Shortcut>
+    <Description>Moves the control up in increments of one on the design surface</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Up Arrow</Shortcut>
+    <Description>Moves the control up into the next grid position on the design surface</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Tab</Shortcut>
+    <Description>Moves to the next control in the tab order</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Tab</Shortcut>
+    <Description>Moves to the previous control in the tab order</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-Down Arrow</Shortcut>
+    <Description>Increases the height of the control in increments of one on the design surface</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Down Arrow</Shortcut>
+    <Description>Increases the height of the control to the next grid position on the design surface</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-Left Arrow</Shortcut>
+    <Description>Reduces the width of the control in increments of one on the design surface</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Left Arrow</Shortcut>
+    <Description>Reduces the width of the control to the next grid position on the design surface</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-Right Arrow</Shortcut>
+    <Description>Increases the width of the control in increments of one on the design surface</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Left Arrow</Shortcut>
+    <Description>Increases the width of the control to the next grid position on the design surface</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-Up Arrow</Shortcut>
+    <Description>Decreases the height of the control in increments of one on the design surface</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Up Arrow</Shortcut>
+    <Description>Decreases the height of the control to the next grid position on the design surface</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-F</Shortcut>
+    <Description>Displays the Find dialog</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-F</Shortcut>
+    <Description>Displays the Find in Files dialog</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F3</Shortcut>
+    <Description>Finds the next occurrence of the previous search text</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-F3</Shortcut>
+    <Description>Finds the next occurrence of the currently selected text or the word under the cursor if there is no selection</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-F3</Shortcut>
+    <Description>Finds the previous occurrence of the search text</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-F3</Shortcut>
+    <Description>Finds the previous occurrence of the currently selected text or the word under the cursor</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-D</Shortcut>
+    <Description>Places the cursor in the Find/Command line on the Standard toolbar</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt-F3</Shortcut>
+    <Description> H</Description>
+    <Usage>Selects or clears the Search Hidden Text option for the Find dialog</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-I</Shortcut>
+    <Description>Starts an incremental search—after pressing Ctrl-I</Description>
+    <Usage> you can type in text</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt-F3</Shortcut>
+    <Description> C</Description>
+    <Usage>Selects or clears the Match Case option for Find and Replace operations</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt-F3</Shortcut>
+    <Description> R</Description>
+    <Usage>Selects or clears the Regular Expression option so that special characters can be used in Find and Replace operations</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-H</Shortcut>
+    <Description>Displays the Replace dialog</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-H</Shortcut>
+    <Description>Displays the Replace in Files dialog</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-I</Shortcut>
+    <Description>Performs an incremental search in reverse direction</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt-F3</Shortcut>
+    <Description> S</Description>
+    <Usage>Halts the current Find in Files operation</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt-F3</Shortcut>
+    <Description> B</Description>
+    <Usage>Selects or clears the Search Up option for Find and Replace operations</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt-F3</Shortcut>
+    <Description> W</Description>
+    <Usage>Selects or clears the Match Whole Word option for Find and Replace operations</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt-F3</Shortcut>
+    <Description> P</Description>
+    <Usage>Selects or clears the Wildcard option for Find and Replace operations</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-F1</Shortcut>
+    <Description>Displays the Contents window for the documentation</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-F1</Shortcut>
+    <Description>Displays the Dynamic Help window</Description>
+    <Usage> which displays different topics depending on what items currently have focus. If the focus is in a source window</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F1</Shortcut>
+    <Description>Displays a topic from Help that corresponds to the part of the user interface that currently has the focus. If the focus is in a source window</Description>
+    <Usage> Help will try to display a topic relevant to the text under the cursor</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-F2</Shortcut>
+    <Description>Displays the Help Index window</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Alt-F2</Shortcut>
+    <Description>Displays the Index Results window</Description>
+    <Usage> which lists the topics that contain the keyword selected in the Index window</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt-Down Arrow</Shortcut>
+    <Description>Displays the next topic in the table of contents. Available only in the Help browser window</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt-Up Arrow</Shortcut>
+    <Description>Displays the previous topic in the table of contents. Available only in the Help browser window</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-F3</Shortcut>
+    <Description>Displays the Search window</Description>
+    <Usage> which allows you to search for words or phrases in the documentation</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Alt-F3</Shortcut>
+    <Description>Displays the Search Results window</Description>
+    <Usage> which displays a list of topics that contain the string searched for from the Search window.</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-F1</Shortcut>
+    <Description>Displays a topic from Help that corresponds to the user interface item that has the focus</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-V</Shortcut>
+    <Description> A</Description>
+    <Usage>Displays the Auto window to view the values of variables currently in the scope of the current line of execution within the current procedure</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-Break</Shortcut>
+    <Description>Temporarily stops execution of all processes in a debugging session. Available only in run mode</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-B</Shortcut>
+    <Description>Displays the Breakpoints dialog</Description>
+    <Usage> where you can add and modify breakpoints</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-C</Shortcut>
+    <Description>Displays the Call Stack window to display a list of all active procedures or stack frames for the current thread of execution. Available only in break mode</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-F9</Shortcut>
+    <Description>Clears all of the breakpoints in the project</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-D</Shortcut>
+    <Description>Displays the Disassembly window</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-F9</Shortcut>
+    <Description>Enables or disables the breakpoint on the current line of code. The line must already have a breakpoint for this to work</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-E</Shortcut>
+    <Description>Displays the Exceptions dialog</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-I</Shortcut>
+    <Description>Displays the Immediate window</Description>
+    <Usage> where you can evaluate expressions and execute individual commands</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-V</Shortcut>
+    <Description> L</Description>
+    <Usage>Displays the Locals window to view the variables and their values for the currently selected procedure in the stack frame</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-M</Shortcut>
+    <Description> 1</Description>
+    <Usage>Displays the Memory 1 window to view memory in the process being debugged. This is particularly useful when you do not have debugging symbols available for the code you are looking at. It is also helpful for looking at large buffers</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-M</Shortcut>
+    <Description> 2</Description>
+    <Usage>Displays the Memory 2 window</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-M</Shortcut>
+    <Description> 3</Description>
+    <Usage>Displays the Memory 3 window</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-M</Shortcut>
+    <Description> 4</Description>
+    <Usage>Displays the Memory 4 window</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-U</Shortcut>
+    <Description>Displays the Modules window</Description>
+    <Usage> which allows you to view the .dll or .exe files loaded by the program. In multiprocess debugging</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-B</Shortcut>
+    <Description>Opens the New Breakpoint dialog</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-Q</Shortcut>
+    <Description>Displays the Quick Watch dialog with the current value of the selected expression. Available only in break mode. Use this command to check the current value of a variable</Description>
+    <Usage> property</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-G</Shortcut>
+    <Description>Displays the Registers window</Description>
+    <Usage> which displays CPU register contents</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-F5</Shortcut>
+    <Description>Terminates the current debugging session</Description>
+    <Usage> rebuilds if necessary</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-N</Shortcut>
+    <Description>Displays the Running Documents window that displays the set of HTML documents that you are in the process of debugging. Available in break and run modes</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-F10</Shortcut>
+    <Description>Starts or resumes execution of your code and then halts execution when it reaches the selected statement. This starts the debugger if it is not already running</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-F10</Shortcut>
+    <Description>Sets the execution point to the line of code you choose</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt-NUM *</Shortcut>
+    <Description>Highlights the next statement to be executed</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F5</Shortcut>
+    <Description>If not currently debugging</Description>
+    <Usage> this runs the startup project or projects and attaches the debugger. If in break mode</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-F5</Shortcut>
+    <Description>"Runs the code without invoking the debugger. For console applications</Description>
+    <Usage> this also arranges for the console window to stay open with a ""Press any key to continue"" prompt when the program finishes"</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F11</Shortcut>
+    <Description>Executes code one statement at a time</Description>
+    <Usage> tracing execution into function calls</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-F11</Shortcut>
+    <Description>Executes the remaining lines of a function in which the current execution point lies</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F10</Shortcut>
+    <Description>Executes the next line of code but does not step into any function calls</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-F5</Shortcut>
+    <Description>Available in break and run modes</Description>
+    <Usage> this terminates the debugging session</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-V</Shortcut>
+    <Description> T</Description>
+    <Usage>Displays the This window</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-H</Shortcut>
+    <Description>Displays the Threads window to view all of the threads for the current process</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F9</Shortcut>
+    <Description>Sets or removes a breakpoint at the current line</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-F11</Shortcut>
+    <Description>Displays the disassembly information for the current source file. Available only in break mode</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-W</Shortcut>
+    <Description> 1</Description>
+    <Usage>Displays the Watch 1 window to view the values of variables or watch expressions</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-W</Shortcut>
+    <Description> 2</Description>
+    <Usage>Displays the Watch 2 window</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-W</Shortcut>
+    <Description> 3</Description>
+    <Usage>Displays the Watch 3 window</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-W</Shortcut>
+    <Description> 4</Description>
+    <Usage>Displays the Watch 4 window</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-P</Shortcut>
+    <Description>Displays the Processes dialog</Description>
+    <Usage> which allows you to attach or detach the debugger to one or more running processes</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt-F12</Shortcut>
+    <Description>Displays the Find Symbol dialog</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-F12</Shortcut>
+    <Description>Displays the declaration of the selected symbol in the code</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F12</Shortcut>
+    <Description>Displays the definition for the selected symbol in code</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-F12</Shortcut>
+    <Description>Displays the Find Symbol Results window</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-J</Shortcut>
+    <Description>Displays the Object Browser to view the classes</Description>
+    <Usage> properties</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt-+</Shortcut>
+    <Description>Moves back to the previously selected object in the selection history of the object browser</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-Alt-+</Shortcut>
+    <Description>Moves forward to the next object in the selection history of the object browser</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-M</Shortcut>
+    <Description>Toggles the Command window into or out of a mode allowing text within the window to be selected</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-C</Shortcut>
+    <Description>Displays the Class View window</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-A</Shortcut>
+    <Description>Displays the Command window</Description>
+    <Usage> which allows you to type commands that manipulate the IDE</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-T</Shortcut>
+    <Description>Displays the Document Outline window to view the flat or hierarchical outline of the current document</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-F</Shortcut>
+    <Description>Displays the Favorites window</Description>
+    <Usage> which lists shortcuts to web pages</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-O</Shortcut>
+    <Description>Displays the Output window to view status messages at runtime</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F4</Shortcut>
+    <Description>Displays the Properties window</Description>
+    <Usage> which lists the design-time properties and events for the currently selected item</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift-F4</Shortcut>
+    <Description>Displays the property pages for the item currently selected. (For example</Description>
+    <Usage> use this to show a project's settings.)</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-E</Shortcut>
+    <Description>Displays the Resource View window</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-S</Shortcut>
+    <Description>Displays the Server Explorer window</Description>
+    <Usage> which allows you to view and manipulate database servers</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-R</Shortcut>
+    <Description>Displays the web browser window</Description>
+    <Usage> which allows you to view pages on the Internet</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-L</Shortcut>
+    <Description>Displays the Solution Explorer</Description>
+    <Usage> which lists the projects and files in the current solution</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-K</Shortcut>
+    <Description>Displays the TaskList window</Description>
+    <Usage> which displays tasks</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-X</Shortcut>
+    <Description>Displays the Toolbox</Description>
+    <Usage> which contains controls and other items that can be dragged into editor and designer windows</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-B</Shortcut>
+    <Description>Toggles the selected text between bold and normal</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-T</Shortcut>
+    <Description>Decreases the selected paragraph by one indent unit</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-T</Shortcut>
+    <Description>Indents the selected paragraph by one indent unit</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-I</Shortcut>
+    <Description>Toggles the selected text between italic and normal</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-K</Shortcut>
+    <Description>Prevents an absolutely positioned element from being inadvertently moved. If the element is already locked</Description>
+    <Usage> this unlocks it</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-G</Shortcut>
+    <Description>Toggles the grid</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-G</Shortcut>
+    <Description>Specifies that elements be aligned using an invisible grid. You can set grid spacing on the Design pane of HTML designer options in the Options dialog</Description>
+    <Usage> and the grid will be changed the next time you open a document</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-U</Shortcut>
+    <Description>Toggles the selected text between underlined and normal</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-L</Shortcut>
+    <Description>Displays the Bookmark dialog</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-J</Shortcut>
+    <Description>Inserts &lt;div&gt;&lt;/div&gt; in the current HTML document</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-L</Shortcut>
+    <Description>When text is selected</Description>
+    <Usage> displays the Hyperlink dialog</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-W</Shortcut>
+    <Description>Displays the Insert Image dialog</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-Up Arrow</Shortcut>
+    <Description>Adds one row above the current row in the table</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-Down Arrow</Shortcut>
+    <Description>Adds one row below the current row in the table</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-Left Arrow</Shortcut>
+    <Description>Adds one column to the left of the current column in the table</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Alt-Right Arrow</Shortcut>
+    <Description>Adds one column to the right of the current column in the table</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-Q</Shortcut>
+    <Description>Toggles display of marker icons for HTML elements that do not have a visual representation</Description>
+    <Usage> such as comments</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Page Down</Shortcut>
+    <Description>Switches from design view to HTML view and vice versa</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Q</Shortcut>
+    <Description>Displays a 1-pixel border around HTML elements that support a BORDER attribute and have it set to zero</Description>
+    <Usage> such as tables</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt-F8</Shortcut>
+    <Description>Displays the Macro Explorer window</Description>
+    <Usage> which lists all available macros</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt-F11</Shortcut>
+    <Description>Launches the macros IDE</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-R</Shortcut>
+    <Description>Places the environment in macro record mode or completes recording if already in record mode</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl-Shift-P</Shortcut>
+    <Description>Plays back a recorded macro</Description>
+    <Usage>Visual Studio</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+N</Shortcut>
+    <Description>Create new project using the Wizard</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Alt+N</Shortcut>
+    <Description>Create new project</Description>
+    <Usage> file</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt+F</Shortcut>
+    <Description> then .</Description>
+    <Usage>Open project</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Shift+R</Shortcut>
+    <Description>Open Resource (file</Description>
+    <Usage> folder or project)</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt+Enter</Shortcut>
+    <Description>Show and access file properties</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+S</Shortcut>
+    <Description>Save current file</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Shift+S</Shortcut>
+    <Description>Save all files</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+W</Shortcut>
+    <Description>Close current file</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Shift+W</Shortcut>
+    <Description>Close all files</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F5</Shortcut>
+    <Description>Refresh content of selected element with local file system</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F12</Shortcut>
+    <Description>Jump to Editor Window</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Page Down/Ctrl+Page Up</Shortcut>
+    <Description>Switch to next editor / switch to previous editor</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+M</Shortcut>
+    <Description>Maximize or un-maximize current Editor Window (also works for other Windows)</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+E</Shortcut>
+    <Description>Show list of open Editors. Use arrow keys and enter to switch</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+F6/Ctrl+Shift+F6</Shortcut>
+    <Description>Show list of open Editors. Similar to ctrl+e but switches immediately upon release of ctrl</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt+Arrow Left/Alt+Arrow Right</Shortcut>
+    <Description>Go to previous / go to next Editor Window</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt+-</Shortcut>
+    <Description>Open Editor Window Option menu</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+F10</Shortcut>
+    <Description>Show view menu (features available on left vertical bar: breakpoints</Description>
+    <Usage> bookmarks</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+F10</Shortcut>
+    <Description> then n</Description>
+    <Usage>Show or hide line numbers</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Shift+Q</Shortcut>
+    <Description>Show or hide the diff column on the left (indicates changes since last save)</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Home/End</Shortcut>
+    <Description>Jump to beginning / jump to end of indention. Press home twice to jump to beginning of line</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Home/End</Shortcut>
+    <Description>Jump to beginning / jump to end of source</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Arrow Right/Arrow Left</Shortcut>
+    <Description>Jump one word to the left / one word to the right</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Shift+Arrow Down/Arrow Up</Shortcut>
+    <Description>Jump to previous / jump to next method</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+L</Shortcut>
+    <Description>Jump to Line Number. To hide/show line numbers</Description>
+    <Usage> press ctrl+F10 and select 'Show Line Numbers'</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Q</Shortcut>
+    <Description>Jump to last location edited</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+./Ctrl+</Shortcut>
+    <Description />
+    <Usage>Jump to next / jump to previous compiler syntax warning or error</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Shift+P</Shortcut>
+    <Description>With a bracket selected: jump to the matching closing or opening bracket</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+[+]/Ctrl+- on numeric keyboard</Shortcut>
+    <Description>Collapse / Expand current method or class</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+[/]/Ctrl+* on numeric keyboard</Shortcut>
+    <Description>Collapse / Expand all methods or classes</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Arrow Down/Ctrl+Arrow Up</Shortcut>
+    <Description>Scroll Editor without changing cursor position</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt+Page Up/Alt+Page Down</Shortcut>
+    <Description>Next Sub-Tab / Previous Sub-Tab</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift+Arrow Right/Arrow Left</Shortcut>
+    <Description>Expand selection by one character to the left / to the right</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Shift+Arrow Right/Arrow Left</Shortcut>
+    <Description>Expand selection to next / previous word</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift+Arrow Down/Arrow Up</Shortcut>
+    <Description>Expand selection by one line down / one line up</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift+End/Home</Shortcut>
+    <Description>Expand selection to end / to beginning of line</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+A</Shortcut>
+    <Description>Select all</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt+Shift+Arrow Up</Shortcut>
+    <Description>Expand selection to current element (e.g. current one-line expression or content within brackets)</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt+Shift+Arrow Left/Arrow Right</Shortcut>
+    <Description>Expand selection to next / previous element</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt+Shift+Arrow Down</Shortcut>
+    <Description>Reduce previously expanded selection by one step</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+C/Ctrl+X/Ctrl+V</Shortcut>
+    <Description>Cut</Description>
+    <Usage> copy and paste</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Z</Shortcut>
+    <Description>Undo last action</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Y</Shortcut>
+    <Description>Redo last (undone) action</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+D</Shortcut>
+    <Description>Delete Line</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt+Arrow Up/Arrow Down</Shortcut>
+    <Description>Move current line or selection up or down</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Alt+Arrow Up/Ctrl+Alt+Arrow Down/</Shortcut>
+    <Description>Duplicate current line or selection up or down</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Delete</Shortcut>
+    <Description>Delete next word</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Backspace</Shortcut>
+    <Description>Delete previous word</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift+Enter</Shortcut>
+    <Description>Enter line below current line</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift+Ctrl+Enter</Shortcut>
+    <Description>Enter line above current line</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Insert</Shortcut>
+    <Description>Switch between insert and overwrite mode</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift+Ctrl+Y</Shortcut>
+    <Description>Change selection to all lower case</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift+Ctrl+X</Shortcut>
+    <Description>Change selection to all upper case</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+F</Shortcut>
+    <Description>Open find and replace dialog</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+K/Ctrl+Shift+K</Shortcut>
+    <Description>Find previous / find next occurrence of search term (close find window first)</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+H</Shortcut>
+    <Description>Search Workspace (Java Search</Description>
+    <Usage> Task Search</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+J/Ctrl+Shift+J</Shortcut>
+    <Description>Incremental search forward / backwards. Type search term after pressing ctrl+j</Description>
+    <Usage> there is now search window</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Shift+O</Shortcut>
+    <Description>Open a resource search dialog to find any class</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Tab/Shift+Tab</Shortcut>
+    <Description>Increase / decrease indent of selected text</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+I</Shortcut>
+    <Description>Correct indention of selected text or of current line</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Shift+F</Shortcut>
+    <Description>Autoformat all code in Editor using code formatter</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+/</Shortcut>
+    <Description>Comment / uncomment line or selection ( adds '//' )</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Shift+/</Shortcut>
+    <Description>Add Block Comment around selection ( adds '/... */' )</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Shift+\</Shortcut>
+    <Description>Remove Block Comment</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt+Shift+J</Shortcut>
+    <Description>Add Element Comment ( adds '/** ... */')</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Space</Shortcut>
+    <Description>Opens Content Assist (e.g. show available methods or field names)</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+1</Shortcut>
+    <Description>Open Quick Fix and Quick Assist</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt+/</Shortcut>
+    <Description>Propose word completion (after typing at least one letter). Repeatedly press alt+/ until reaching correct name</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Shift+Insert</Shortcut>
+    <Description>Deactivate or activate Smart Insert Mode (automatic indention</Description>
+    <Usage> automatic brackets</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+O</Shortcut>
+    <Description>Show code outline / structure</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F2</Shortcut>
+    <Description>Open class</Description>
+    <Usage> method</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F3</Shortcut>
+    <Description>Open Declaration: Jump to Declaration of selected class</Description>
+    <Usage> method</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F4</Shortcut>
+    <Description>Open Type Hierarchy window for selected item</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+T</Shortcut>
+    <Description>Show / open Quick Type Hierarchy for selected item</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Shift+T</Shortcut>
+    <Description>Open Type in Hierarchy</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Alt+H</Shortcut>
+    <Description>Open Call Hierarchy</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Shift+U</Shortcut>
+    <Description>Find occurrences of expression in current file</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+move over method</Shortcut>
+    <Description>Open Declaration or Implementation</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt+Shift+R</Shortcut>
+    <Description>Rename selected element and all references</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt+Shift+V</Shortcut>
+    <Description>Move selected element to other class or file (With complete method or class selected)</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt+Shift+C</Shortcut>
+    <Description>Change method signature (with method name selected)</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt+Shift+M</Shortcut>
+    <Description>Extract selection to method</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt+Shift+L</Shortcut>
+    <Description>Extract local variable: Create and assigns a variable from a selected expression</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Alt+Shift+I</Shortcut>
+    <Description>Inline selected local variables</Description>
+    <Usage> methods</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+F11</Shortcut>
+    <Description>Save and launch application (run)</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F11</Shortcut>
+    <Description>Debug</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F5</Shortcut>
+    <Description>Step Into function</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F6</Shortcut>
+    <Description>Next step (line by line)</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F7</Shortcut>
+    <Description>Step out</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F8</Shortcut>
+    <Description>Skip to next Breakpoint</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+F7/Ctrl+Shift+F7</Shortcut>
+    <Description>Switch forward / backward between views (panels). Useful for switching back and forth between Package Explorer and Editor.</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+F8/Ctrl+Shift+F8</Shortcut>
+    <Description>Switch forward / backward between perspectives</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+P</Shortcut>
+    <Description>Print</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>F1</Shortcut>
+    <Description>Open Eclipse Help</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Shift+F10</Shortcut>
+    <Description>Show Context Menu right click with mouse</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Alt+S</Shortcut>
+    <Description>Synchronize with Repository</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Alt+C</Shortcut>
+    <Description>Commit</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Alt+U</Shortcut>
+    <Description>Update</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Alt+D</Shortcut>
+    <Description>Update to Revision</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Alt+E</Shortcut>
+    <Description>Merge</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Alt+T</Shortcut>
+    <Description>Show Properties</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+  <ShortcutDetails>
+    <Shortcut>Ctrl+Alt+I</Shortcut>
+    <Description>Add to svn:ignore</Description>
+    <Usage>Eclipse</Usage>
+  </ShortcutDetails>
+</ShortcutInformation>

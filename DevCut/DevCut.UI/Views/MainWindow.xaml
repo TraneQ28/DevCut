@@ -1,0 +1,160 @@
+﻿<Window x:Class="DevCut.UI.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:interactivity="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:views="clr-namespace:DevCut.UI.Views"
+        xmlns:viewModels="clr-namespace:DevCut.UI.ViewModels"
+		xmlns:selector="clr-namespace:DevCut.UI"
+		xmlns:sys="clr-namespace:System;assembly=mscorlib"
+		xmlns:conv="clr-namespace:DevCut.UI.Converter"
+        mc:Ignorable="d"
+        Title="DevCut" Height="640" Width="950" Background="#322e87" MinWidth="950" MinHeight="640">
+	<Window.Resources>
+		<DataTemplate x:Key="ApplicationsOverviewTemplate" DataType="{x:Type viewModels:MainViewModel}">
+			<views:CardsControl />
+		</DataTemplate>
+		<DataTemplate x:Key="ShortcutsTemplate" DataType="{x:Type viewModels:ShortcutsViewModel}">
+			<views:ListControl />
+		</DataTemplate>
+		<viewModels:MainViewModel x:Key="dataContext" />
+		<x:Array x:Key="tabSource" Type="{x:Type viewModels:MenuItemViewModel}">
+			<viewModels:MenuItemViewModel/>
+			<viewModels:MenuItemViewModel/>
+			<viewModels:MenuItemViewModel/>
+		</x:Array>
+		<selector:TemplateSelector x:Key="dataTemplateSelector" />
+		<sys:String x:Key="cornerKram">5,5,0,0</sys:String>
+		<conv:CornerRadiusConverter x:Key="cornerConverter" />
+		<Style TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Border>
+							<Grid>
+								<Grid>
+									<Border x:Name="border" Background="#56368c"/>
+									<Grid>
+										<Grid.ColumnDefinitions>
+											<ColumnDefinition Width="42"></ColumnDefinition>
+											<ColumnDefinition Width="*"></ColumnDefinition>
+										</Grid.ColumnDefinitions>
+										<Image Grid.Column="0" Source="{Binding ImageSource}" Width="35" Height="35" HorizontalAlignment="Left" Margin="5,2,2,2" />
+										<TextBlock Grid.Column="1" Margin="10,0,0,0" Width="80" VerticalAlignment="Center" HorizontalAlignment="Left" Text="{Binding DisplayName}" 
+										   FontFamily="Century Gothic" FontSize="14pt" Foreground="#cbcbcb"/>
+									</Grid>
+								</Grid>
+								<ContentPresenter ContentSource="Content" 
+												  HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" 
+												  VerticalAlignment="{TemplateBinding VerticalContentAlignment}" />
+							</Grid>
+						</Border>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsMouseOver" Value="True">
+								<Trigger.EnterActions>
+									<BeginStoryboard>
+										<Storyboard>
+											<ColorAnimation Duration="0:0:0.1" 
+															Storyboard.TargetName="border" 
+															Storyboard.TargetProperty="Background.Color" 
+															To="#5c5da5" />
+										</Storyboard>
+									</BeginStoryboard>
+								</Trigger.EnterActions>
+								<Trigger.ExitActions>
+									<BeginStoryboard>
+										<Storyboard FillBehavior="Stop">
+											<ColorAnimation Duration="0:0:0.35" 
+															Storyboard.TargetName="border" 
+															Storyboard.TargetProperty="Background.Color" 
+															To="#56368c" />
+										</Storyboard>
+									</BeginStoryboard>
+								</Trigger.ExitActions>
+							</Trigger>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+	</Window.Resources>
+	<Grid d:DataContext="{StaticResource dataContext}">
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="175" />
+			<ColumnDefinition Width="*" />
+		</Grid.ColumnDefinitions>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="50" />
+			<RowDefinition Height="*" />
+		</Grid.RowDefinitions>
+
+		<Label Grid.Row="0" Grid.Column="0" FontFamily="Century Gothic" FontSize="20pt" Foreground="#cbcbcb" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="5">DevCut</Label>
+		<Border Grid.Row="0" Grid.Column="1"
+				Width="Auto" 
+				BorderThickness="0"
+				VerticalAlignment="Center"
+				CornerRadius="0"
+				Background="#56368c" 
+				Margin="5,0,10,0"
+				HorizontalAlignment="Stretch">
+
+			<DockPanel Margin="0,5" HorizontalAlignment="Stretch" VerticalAlignment="Center">
+
+				<!--Button einfügen-->
+				<!--<Button Name="SearchButton">-->
+				<Image Source="pack://application:,,,/DevCut.UI;component/Resources/icons8-Search Filled-100.png" Height="18"/>
+				<!--</Button>-->
+
+				<TextBox Text="{Binding Search, UpdateSourceTrigger=PropertyChanged}" Margin="3 0 0 0" BorderThickness="0">
+					<TextBox.Style>
+						<Style TargetType="TextBox" xmlns:sys="clr-namespace:System;assembly=mscorlib">
+							<Setter Property="FontSize" Value="15pt" />
+							<Setter Property="FontFamily" Value="Century Gothic"/>
+							<Setter Property="Foreground" Value="#cbcbcb"/>
+							<Style.Resources>
+								<VisualBrush x:Key="CueBannerBrush" AlignmentX="Left" AlignmentY="Center" Stretch="None">
+									<VisualBrush.Visual>
+										<Label Content="Nach Shortcut suchen" Foreground="#888888" FontSize="15pt" FontFamily="Century Gothic" />
+									</VisualBrush.Visual>
+								</VisualBrush>
+							</Style.Resources>
+							<Style.Triggers>
+								<Trigger Property="Text" Value="{x:Static sys:String.Empty}">
+									<Setter Property="Background" Value="{StaticResource CueBannerBrush}" />
+								</Trigger>
+								<Trigger Property="Text" Value="{x:Null}">
+									<Setter Property="Background" Value="{StaticResource CueBannerBrush}" />
+								</Trigger>
+								<Trigger Property="IsKeyboardFocused" Value="True">
+									<Setter Property="Background" Value="#56368c" />
+								</Trigger>
+							</Style.Triggers>
+						</Style>
+					</TextBox.Style>
+					<interactivity:Interaction.Triggers>
+						<interactivity:EventTrigger EventName="TextChanged">
+							<interactivity:InvokeCommandAction Command="{Binding SearchCommand}" CommandParameter="{Binding Search}" />
+						</interactivity:EventTrigger>
+					</interactivity:Interaction.Triggers>
+				</TextBox>
+
+			</DockPanel>
+		</Border>
+		<Border Grid.Column="0" Grid.Row="1" Background="#322e87" Margin="10,0,10,10">
+			<ItemsControl  x:Name="Menu" ItemsSource="{Binding MenuItems}">
+				<ItemsControl.ItemTemplate>
+					<DataTemplate>
+						<Button Command="{Binding ClickCommand}" CommandParameter="{Binding Id}" Margin="5" />
+					</DataTemplate>
+				</ItemsControl.ItemTemplate>
+			</ItemsControl>
+		</Border>
+		<ContentControl 
+			Grid.Column="1" 
+			Grid.Row="1"
+			x:Name="Content" 
+			Content="{Binding CurrentView}" 
+			ContentTemplateSelector="{StaticResource dataTemplateSelector}" />
+	</Grid>
+</Window>

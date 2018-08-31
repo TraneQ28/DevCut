@@ -1,0 +1,579 @@
+﻿STRG+X;Ausgewähltes Element ausschneiden;Windows
+STRG+C (oder STRG+EINFG);Ausgewähltes Element kopieren;Windows
+STRG+V (oder UMSCHALT+EINFG);Ausgewähltes Element einfügen;Windows
+STRG+Z;Aktion rückgängig machen;Windows
+ALT+TAB;Zwischen geöffneten Apps wechseln;Windows
+ALT+F4;Aktives Element schließen oder aktive App beenden;Windows
+Windows-Logo-Taste +L;PC sperren;Windows
+Windows-Logo-Taste‌ +D;Desktop anzeigen und ausblenden;Windows
+F2;Ausgewähltes Element umbenennen;Windows
+F3;Nach einer Datei oder einem Ordner im Datei-Explorer suchen;Windows
+F4;Adressleistenliste im Datei-Explorer anzeigen;Windows
+F5;Aktives Fenster aktualisieren;Windows
+F6;Zwischen Bildschirmelementen in einem Fenster oder auf dem Desktop umschalten;Windows
+F10;Menüleiste in der aktiven App aktivieren;Windows
+ALT+F8;Ihr Kennwort auf dem Anmeldebildschirm anzeigen;Windows
+ALT+ESC;Zwischen Elementen in der Reihenfolge, in der sie geöffnet wurden, umschalten;Windows
+ALT+unterstrichener Buchstabe;Befehl für diesen Buchstaben ausführen;Windows
+ALT+EINGABETASTE;Eigenschaften für das ausgewählte Element anzeigen;Windows
+ALT+LEERTASTE;Kontextmenü für das aktive Fenster öffnen;Windows
+ALT+NACH-LINKS;Zurück;Windows
+ALT+NACH-RECHTS;Weiter;Windows
+ALT+BILD-AUF;Um einen Bildschirm nach oben wechseln;Windows
+ALT+BILD-AB;Um einen Bildschirm nach unten wechseln;Windows
+STRG+F4;Aktives Dokument schließen (in Apps im Vollbildmodus, bei denen mehrere Dokumente gleichzeitig geöffnet sein können);Windows
+STRG+A;Alle Elemente in einem Dokument oder Fenster auswählen;Windows
+STRG+D (oder ENTF);Ausgewähltes Element löschen und in den Papierkorb verschieben;Windows
+STRG+R (oder F5);Aktives Fenster aktualisieren;Windows
+STRG+Y;Einer Aktion wiederholen;Windows
+STRG+NACH-RECHTS;Cursor an den Anfang des nächsten Worts verschieben;Windows
+STRG+NACH-LINKS;Cursor an den Anfang des vorherigen Worts verschieben;Windows
+STRG+NACH-UNTEN;Cursor an den Anfang des nächsten Absatzes verschieben;Windows
+STRG+NACH-OBEN;Cursor an den Anfang des vorherigen Absatzes verschieben;Windows
+STRG+ALT+TAB;Zwischen allen geöffneten Apps mithilfe der Pfeiltasten umschalten;Windows
+STRG+ALT+UMSCHALT+Pfeiltasten;Eine im Startmenü hervorgehobene Gruppe oder Kachel in die angegebene Richtung verschieben;Windows
+STRG+Pfeiltaste (zum Wechseln zu einem Element)+LEERTASTE;Mehrere einzelne Elemente in einem Fenster oder auf dem Desktop auswählen;Windows
+STRG+UMSCHALT mit einer Pfeiltaste;Textblock markieren;Windows
+STRG+ESC;Menü „Start“ öffnen;Windows
+STRG+UMSCHALT+ESC;Task-Manager öffnen;Windows
+STRG+UMSCHALT;Tastaturlayout wechseln (wenn mehrere Tastaturlayouts verfügbar sind);Windows
+STRG+LEERTASTE;Eingabemethoden-Editor für Chinesisch aktivieren bzw. deaktivieren;Windows
+UMSCHALT+F10;Kontextmenüs für das ausgewählte Element anzeigen;Windows
+UMSCHALT mit einer Pfeiltaste;Mehrere Elemente in einem Fenster oder auf dem Desktop bzw. Text in einem Dokument auswählen;Windows
+UMSCHALT+ENTF;Ausgewähltes Element ohne vorheriges Verschieben in den Papierkorb löschen;Windows
+NACH-RECHTS-TASTE;Nächstes Menü rechts des aktuellen Menüs oder Untermenü öffnen;Windows
+NACH-LINKS-TASTE;Nächstes Menü links des aktuellen Menüs öffnen oder Untermenü schließen;Windows
+ESC;Aktuelle Aufgabe anhalten oder beenden;Windows
+Befehlstaste-X;Ausschneiden: Ausgewähltes Objekt entfernen und in die Zwischenablage kopieren.;MacOS
+Befehlstaste-C;Kopieren: Ausgewähltes Objekt in die Zwischenablage kopieren. Dies funktioniert auch mit Dateien im Finder.;MacOS
+Befehlstaste-V;Einsetzen: Den Inhalt der Zwischenablage in das aktuelle Dokument oder die aktuelle App einfügen. Dies funktioniert auch mit Dateien im Finder.;MacOS
+Befehlstaste-Z;Widerrufen: Den vorherigen Befehl rückgängig machen. Sie können anschließend zum Wiederholen die Tastenkombination Befehlstaste-Umschalttaste-Z drücken, um den Widerrufen-Befehl umzukehren. In manchen Apps können Sie mehrere Befehle widerrufen und wiederholen.;MacOS
+Befehlstaste-A;Alle auswählen: Alle Objekte auswählen.;MacOS
+Befehlstaste-F;Suchen: Ein Suchfenster öffnen oder Objekte in einem Dokument suchen.;MacOS
+Befehlstaste-G;Weitersuchen: Das nächste Auftreten des gefundenen Objekts suchen (vorwärts suchen). Um das vorherige Auftreten zu suchen (rückwärts suchen), drücken Sie Befehlstaste-Umschalttaste-G.;MacOS
+Befehlstaste-H;Ausblenden: Die Fenster der vordersten App ausblenden. Um nur die vorderste App anzuzeigen und alle anderen Apps auszublenden, drücken Sie Befehlstaste-Wahltaste-H.;MacOS
+Befehlstaste-M;Im Dock ablegen: Das vorderste Fenster im Dock ablegen. Um alle Fenster der vordersten App im Dock abzulegen, drücken Sie Befehlstaste-Wahltaste-M.;MacOS
+Befehlstaste-N;Neu: Ein neues Dokument oder Fenster öffnen.;MacOS
+Befehlstaste-O;Öffnen: Das ausgewählte Objekt oder ein Dialogfenster zur Auswahl einer Datei öffnen.;MacOS
+Befehlstaste-P;Drucken: Das aktuelle Dokument drucken.;MacOS
+Befehlstaste-S;Sichern: Das aktuelle Dokument sichern.;MacOS
+Befehlstaste-W;Schließen: Das vorderste Fenster schließen. Um alle Fenster der App zu schließen, drücken Sie Befehlstaste-Wahltaste-W.;MacOS
+Befehlstaste-Q;Beenden: Die App beenden.;MacOS
+Befehlstaste-Wahltaste-Esc;Sofort beenden: App auswählen, die sofort beendet werden soll. Um nur die vorderste App sofort zu beenden, halten Sie die Tastenkombination Befehlstaste-Umschalttaste-Wahltaste-Esc drei Sekunden lang gedrückt.;MacOS
+Befehlstaste-Leertaste;Spotlight: Das Spotlight-Suchfeld ein- oder ausblenden. Um eine Spotlight-Suche aus einem Finder-Fenster durchzuführen, drücken Sie Befehlstaste-Wahltaste-Leertaste. Wenn Sie mehrere Eingabequellen verwenden, um in anderen Sprachen zu schreiben, ändern diese Kurzbefehle die Eingabequelle, anstatt Spotlight anzuzeigen.;MacOS
+Leertaste;Übersicht: Die Übersicht verwenden, um eine Schnellvorschau des ausgewählten Objekts anzuzeigen.;MacOS
+Befehlstaste-Tabulatortaste;Apps wechseln: Unter den geöffneten Apps zur zuletzt verwendeten wechseln. ;MacOS
+Befehlstaste-Umschalttaste-Tilde (~);Fenster wechseln: Zum nächsten zuletzt verwendeten Fenster der vordersten App wechseln. ;MacOS
+Befehlstaste-Umschalttaste-3;Bildschirmfoto: Ein Bildschirmfoto des gesamten Bildschirms aufnehmen. Hier lernen Sie weitere Bildschirmfoto-Kurzbefehle kennen.;MacOS
+Befehlstaste-Komma (,);Einstellungen: Einstellungen für die vorderste App öffnen.;MacOS
+Befehlstaste-Ctrl-Ein-/Ausschalter;Neustart des Mac erzwingen.;MacOS
+Umschalttaste-Ctrl-(Ein-/Ausschalter oder Medienauswurftaste );Den Monitor in den Ruhezustand versetzen.;MacOS
+Befehlstaste-Ctrl-Medienauswurftaste ;Alle Apps beenden und den Mac anschließend neu starten. Falls geöffnete Dokumente nicht gesicherte Änderungen enthalten, werden Sie gefragt, ob Sie diese sichern möchten.;MacOS
+Befehlstaste-Wahltaste-Ctrl-(Ein-/Ausschalter oder Medienauswurftaste );Alle Apps beenden und den Mac anschließend ausschalten. Falls geöffnete Dokumente nicht gesicherte Änderungen enthalten, werden Sie gefragt, ob Sie diese sichern möchten.;MacOS
+Befehlstaste-Umschalttaste-Q;Von Ihrem OS X-Benutzeraccount abmelden. Sie werden aufgefordert, dies zu bestätigen.;MacOS
+Befehlstaste-Umschalttaste-Wahltaste-Q;Sofort von Ihrem OS X-Benutzeraccount abmelden, ohne Bestätigungsmeldung.;MacOS
+Befehlstaste-B;Den ausgewählten Text fett formatieren bzw. Fettschrift ein- oder ausschalten. ;MacOS
+Befehlstaste-I;Den ausgewählten Text kursiv formatieren bzw. Kursivschrift ein- oder ausschalten.;MacOS
+Befehlstaste-U;Den ausgewählten Text unterstrichen formatieren bzw. Unterstreichung ein- oder ausschalten.;MacOS
+Befehlstaste-T;"Das Fenster ""Schriften"" ein- oder ausblenden.";MacOS
+Befehlstaste-D;"Den Ordner ""Schreibtisch"" in den Dialogfenstern ""Öffnen"" oder ""Sichern"" auswählen.";MacOS
+Befehlstaste-Ctrl-D;Die Definition eines ausgewählten Wortes ein- oder ausblenden.;MacOS
+Befehlstaste-Umschalttaste-Doppelpunkt (:);"Fenster ""Rechtschreibung und Grammatik"" einblenden.";MacOS
+"Befehlstaste-Semikolon (;)";Falsch geschriebene Wörter im Dokument suchen.;MacOS
+Wahltaste-Rückschritttaste;Das Wort links von der Einfügemarke löschen.;MacOS
+Ctrl-H;Das Zeichen links von der Einfügemarke löschen. Alternativ verwenden Sie die Rückschritttaste.;MacOS
+Ctrl-D;Das Zeichen rechts von der Einfügemarke löschen. Alternativ verwenden Sie Fn-Rückschritttaste.;MacOS
+Fn-Rückschritttaste;Vorwärts löschen auf Tastaturen, die keine Entf-Taste  haben. Alternativ verwenden Sie Ctrl-D.;MacOS
+Ctrl-K;Text zwischen der Einfügemarke und dem Ende der aktuellen Zeile oder des Absatzes löschen.;MacOS
+Befehlstaste-Rückschritttaste;"""Löschen"" oder ""Nicht sichern"" in Dialogfenstern mit einer Taste ""Löschen"" oder ""Nicht sichern"" auswählen.";MacOS
+Fn-Aufwärtspfeil;Seite nach oben: Eine Seite nach oben blättern. ;MacOS
+Fn-Abwärtspfeil;Seite nach unten: Eine Seite nach unten blättern.;MacOS
+Fn-Linkspfeil;Pos1: Zum Anfang eines Dokuments blättern.;MacOS
+Fn-Rechtspfeil;Ende: Zum Ende eines Dokuments blättern.;MacOS
+Befehlstaste-Aufwärtspfeil;Einfügemarke an den Anfang des Dokuments bewegen.;MacOS
+Befehlstaste-Abwärtspfeil;Einfügemarke an das Ende des Dokuments bewegen.;MacOS
+Befehlstaste-Linkspfeil;Einfügemarke an den Anfang der aktuellen Zeile bewegen.;MacOS
+Befehlstaste-Rechtspfeil;Einfügemarke an das Ende der aktuellen Zeile bewegen.;MacOS
+Wahltaste-Linkspfeil;Einfügemarke an den Anfang des vorhergehenden Wortes bewegen.;MacOS
+Wahltaste-Rechtspfeil;Einfügemarke an das Ende des nächsten Wortes bewegen.;MacOS
+Befehlstaste-Umschalttaste-Aufwärtspfeil;Text zwischen der Einfügemarke und dem Anfang des Dokuments markieren.;MacOS
+Befehlstaste-Umschalttaste-Abwärtspfeil;Text zwischen der Einfügemarke und dem Ende des Dokuments markieren.;MacOS
+Befehlstaste-Umschalttaste-Linkspfeil;Text zwischen der Einfügemarke und dem Anfang der aktuellen Zeile markieren.;MacOS
+Befehlstaste-Umschalttaste-Rechtspfeil;Text zwischen der Einfügemarke und dem Ende der aktuellen Zeile markieren.;MacOS
+Umschalttaste-Aufwärtspfeil;Textauswahl auf das der aktuellen Position am nächsten liegende Zeichen in der darüberliegenden Zeile erweitern.;MacOS
+Umschalttaste-Abwärtspfeil;Textauswahl auf das der aktuellen Position am nächsten liegende Zeichen in der darunterliegenden Zeile erweitern.;MacOS
+Umschalttaste-Linkspfeil;Textauswahl um ein Zeichen nach links erweitern.;MacOS
+Umschalttaste-Rechtspfeil;Textauswahl um ein Zeichen nach rechts erweitern.;MacOS
+Umschalttaste-Wahltaste-Aufwärtspfeil;Textauswahl bis zum Anfang des aktuellen Absatzes erweitern, bei nochmaligem Drücken bis zum Anfang des nächsten Absatzes.;MacOS
+Umschalttaste-Wahltaste-Abwärtspfeil;Textauswahl bis zum Ende des aktuellen Absatzes erweitern, bei nochmaligem Drücken bis zum Ende des nächsten Absatzes.;MacOS
+Umschalttaste-Wahltaste-Linkspfeil;Textauswahl bis zum Anfang des aktuellen Wortes erweitern, bei nochmaligem Drücken bis zum Anfang des nächsten Wortes.;MacOS
+Umschalttaste-Wahltaste-Rechtspfeil;Textauswahl bis zum Ende des aktuellen Wortes erweitern, bei nochmaligem Drücken bis zum Ende des nächsten Wortes.;MacOS
+Ctrl-A;Zum Anfang der Zeile oder des Absatzes bewegen.;MacOS
+Ctrl-E;Zum Ende einer Zeile oder eines Absatzes bewegen.;MacOS
+Ctrl-F;Ein Zeichen vor bewegen.;MacOS
+Ctrl-B;Ein Zeichen zurück bewegen.;MacOS
+Ctrl-L;Cursor oder Auswahl im sichtbaren Bereich zentrieren.;MacOS
+Ctrl-P;Eine Zeile nach oben bewegen.;MacOS
+Ctrl-N;Eine Zeile nach unten bewegen.;MacOS
+Ctrl-O;Neue Zeile hinter der Einfügemarke einfügen.;MacOS
+Ctrl-T;Das Zeichen hinter der Einfügemarke mit dem Zeichen davor austauschen.;MacOS
+Befehlstaste-linke geschweifte Klammer ({);Linksbündig.;MacOS
+Befehlstaste-rechte geschweifte Klammer (});Rechtsbündig.;MacOS
+Befehlstaste-Umschalttaste-vertikaler Balken (|);Zentrieren.;MacOS
+Befehlstaste-Wahltaste-F;Zum Suchfeld wechseln. ;MacOS
+Befehlstaste-Wahltaste-T;Symbolleiste in der App ein- oder ausblenden.;MacOS
+Befehlstaste-Wahltaste-C;Stil kopieren: Formatierungseinstellungen des ausgewählten Objekts in die Zwischenablage kopieren.;MacOS
+Befehlstaste-Wahltaste-V;Stil einsetzen: Die kopierten Formatierungseinstellungen auf das ausgewählte Objekt anwenden.;MacOS
+Befehlstaste-Umschalttaste-Wahltaste-V;Einsetzen und Stil anpassen: Den Stil des umgebenden Inhalts auf das darin eingesetzte Objekt anwenden.;MacOS
+Befehlstaste-Wahltaste-I;"Das Fenster ""Informationen"" ein- oder ausblenden.";MacOS
+Befehlstaste-Umschalttaste-P;Papierformat: Ein Fenster zur Auswahl von Dokumenteinstellungen anzeigen.;MacOS
+Befehlstaste-Umschalttaste-S;"Dialogfenster ""Sichern unter"" anzeigen oder aktuelles Dokument duplizieren.";MacOS
+Befehlstaste-Umschalttaste-;Ausgewähltes Objekt verkleinern.;MacOS
+Minus-Zeichen (-)    ;;MacOS
+Befehlstaste-Umschalttaste-;Ausgewähltes Objekt vergrößern. Befehlstaste-Gleichheitszeichen (=) führt dieselbe Funktion aus.;MacOS
+Plus-Zeichen (+);;MacOS
+Befehlstaste-Umschalttaste-;Hilfe-Menü öffnen.;MacOS
+Fragezeichen (?);;MacOS
+Befehlstaste-D;Ausgewählte Dateien duplizieren.;MacOS
+Befehlstaste-E;Ausgewähltes Laufwerk oder Volume auswerfen.;MacOS
+Befehlstaste-F;Eine Spotlight-Suche im Finder-Fenster starten.;MacOS
+Befehlstaste-I;"Fenster ""Informationen"" für eine markierte Datei anzeigen.";MacOS
+Befehlstaste-Umschalttaste-C;"Fenster ""Computer"" öffnen.";MacOS
+Befehlstaste-Umschalttaste-D;"Ordner ""Schreibtisch"" öffnen.";MacOS
+Befehlstaste-Umschalttaste-F;"Fenster ""Alle meine Dateien"" öffnen.";MacOS
+Befehlstaste-Umschalttaste-G;"Ein Fenster ""Gehe zum Ordner"" öffnen.";MacOS
+Befehlstaste-Umschalttaste-H;Benutzerordner des aktuellen OS X-Benutzeraccounts öffnen.;MacOS
+Befehlstaste-Umschalttaste-I;iCloud Drive öffnen.;MacOS
+Befehlstaste-Umschalttaste-K;"Fenster ""Netzwerk"" öffnen.";MacOS
+Befehlstaste-Wahltaste-L;"Ordner ""Downloads"" öffnen.";MacOS
+Befehlstaste-Umschalttaste-O;"Ordner ""Dokumente"" öffnen.";MacOS
+Befehlstaste-Umschalttaste-R;"Fenster ""AirDrop"" öffnen.";MacOS
+Befehlstaste-Umschalttaste-T;Das ausgewählte Finder-Objekt dem Dock hinzufügen (OS X Mountain Lion oder älter).;MacOS
+Befehlstaste-Umschalttaste-Ctrl-T;Das ausgewählte Finder-Objekt dem Dock hinzufügen (OS X Mavericks oder neuer).;MacOS
+Befehlstaste-Umschalttaste-U;"Ordner ""Dienstprogramme"" öffnen.";MacOS
+Befehlstaste-Wahltaste-D;Das Dock ein- oder ausblenden. Dies funktioniert häufig auch, wenn Sie sich nicht im Finder befinden.;MacOS
+Befehlstaste-Ctrl-T;Das ausgewählte Objekt der Seitenleiste hinzufügen (OS X Mavericks oder neuer).;MacOS
+Befehlstaste-Wahltaste-P;Pfadleiste in Finder-Fenstern ein- oder ausblenden.;MacOS
+Befehlstaste-Wahltaste-S;Seitenleiste in Finder-Fenstern ein- oder ausblenden.;MacOS
+Befehlstaste-Schrägstrich (/);Statusleiste in Finder-Fenstern ein- oder ausblenden.;MacOS
+Befehlstaste-J;Darstellungsoptionen einblenden.;MacOS
+Befehlstaste-K;"Das Fenster ""Mit Server verbinden"" öffnen.";MacOS
+Befehlstaste-L;Alias des ausgewählten Objekts erstellen.;MacOS
+Befehlstaste-N;Neues Finder-Fenster öffnen.;MacOS
+Befehlstaste-Umschalttaste-N;Neuen Ordner erstellen.;MacOS
+Befehlstaste-Wahltaste-N;Neuen intelligenten Ordner erstellen.;MacOS
+Befehlstaste-R;Originaldatei für das ausgewählte Alias anzeigen.;MacOS
+Befehlstaste-T;Tableiste ein- oder ausblenden, wenn nur ein Tab im aktuellen Finder-Fenster geöffnet ist.;MacOS
+Befehlstaste-Umschalttaste-T;Finder-Tab ein- oder ausblenden.;MacOS
+Befehlstaste-Wahltaste-T;Symbolleiste ein- oder ausblenden, wenn nur ein Tab im aktuellen Finder-Fenster geöffnet ist.;MacOS
+Befehlstaste-Wahltaste-V;Bewegen: Die Dateien in der Zwischenablage von ihrem ursprünglichen zum aktuellen Speicherort bewegen.;MacOS
+Befehlstaste-Wahltaste-Y;In der Übersicht eine Diashow der ausgewählten Dateien anzeigen.;MacOS
+Befehlstaste-Y;"Die Funktion ""Übersicht"" zum Anzeigen einer Schnellvorschau der ausgewählten Dateien nutzen.";MacOS
+Befehlstaste-1;Die Objekte im Finder-Fenster als Symbole anzeigen.;MacOS
+Befehlstaste-2;Die Objekte im Finder-Fenster als Liste anzeigen.;MacOS
+Befehlstaste-3;Die Objekte im Finder-Fenster in Spalten anzeigen. ;MacOS
+Befehlstaste-4;Die Objekte im Finder-Fenster mit Cover Flow anzeigen.;MacOS
+Befehlstaste-linke eckige Klammer ([);Zum vorherigen Ordner wechseln.;MacOS
+Befehlstaste-rechte eckige Klammer (]);Zum nächsten Ordner wechseln.;MacOS
+Befehlstaste-Aufwärtspfeil;Ordner mit dem aktuellen Ordner öffnen.;MacOS
+Befehlstaste-Ctrl-Aufwärtspfeil;Ordner mit dem aktuellen Ordner in einem neuen Fenster öffnen.;MacOS
+Befehlstaste-Abwärtspfeil;Ausgewähltes Objekt öffnen.;MacOS
+Befehlstaste-Mission Control;Den Schreibtisch anzeigen. Dies funktioniert auch, wenn Sie sich nicht im Finder befinden.;MacOS
+Befehlstaste-Helligkeit erhöhen;Bildschirm-Synchronisationsmodus starten oder beenden.;MacOS
+Befehlstaste-Helligkeit verringern;Bildschirmsynchronisation ein- bzw. ausschalten, wenn der Mac mit mehr als einem Monitor verbunden ist.;MacOS
+Rechtspfeil ;Ausgewählten Ordner öffnen. Diese Funktion ist nur in der Listendarstellung verfügbar.;MacOS
+Linkspfeil;Ausgewählten Ordner schließen. Diese Funktion ist nur in der Listendarstellung verfügbar.;MacOS
+Wahltaste-Doppelklick;Einen Ordner in einem neuen Fenster öffnen und das aktuelle Fenster schließen.;MacOS
+Befehlstaste-Doppelklick;Einen Ordner in einem neuen Tab oder Fenster öffnen.;MacOS
+Befehlstaste-Rückschritttaste;Das markierte Objekt in den Papierkorb verschieben.;MacOS
+Befehlstaste-Umschalttaste-Rückschritttaste;Den Papierkorb leeren.;MacOS
+Befehlstaste-Umschalttaste-Wahltaste-Rückschritttaste;Den Papierkorb ohne Bestätigungsdialog leeren.;MacOS
+Befehlstaste-Y;"Die Funktion ""Übersicht"" zum Anzeigen einer Dateivorschau verwenden.";MacOS
+Wahltaste-Helligkeit erhöhen;"Systemeinstellung ""Monitore"" öffnen. Dies funktioniert mit beiden Helligkeitstasten.";MacOS
+Wahltaste-Mission Control;"Systemeinstellung ""Mission Control"" öffnen.";MacOS
+Wahltaste-Lauter;"Systemeinstellung ""Ton"" öffnen. Dies funktioniert mit allen Lautstärketasten.";MacOS
+Befehlstaste beim Ziehen;Gezogenes Objekt auf ein anderes Volume oder an einen anderen Speicherort verschieben. Der Mauszeiger ändert sich, während Sie das Objekt ziehen.;MacOS
+Wahltaste beim Ziehen;Gezogenes Objekt kopieren. Der Mauszeiger ändert sich, während Sie das Objekt ziehen.;MacOS
+Befehlstaste-Wahltaste beim Ziehen;Alias des gezogenen Objekts erstellen. Der Mauszeiger ändert sich, während Sie das Objekt ziehen.;MacOS
+Wahltaste-Klick auf ein Erweiterungsdreieck;Alle Ordner im ausgewählten Ordner öffnen. Diese Funktion ist nur in der Listendarstellung verfügbar.;MacOS
+Befehlstaste-Klick auf Fenstertitel;Ordner anzeigen, die den aktuellen Ordner enthalten.;MacOS
+Shift-Left Arrow;Moves the cursor to the left one character, extending the selection;Visual Studio
+Shift-Alt-Left Arrow;Moves the cursor to the left one character, extending the column selection;Visual Studio
+Shift-Right Arrow;Moves the cursor to the right one character, extending the selection;Visual Studio
+Shift-Alt-Right Arrow;Moves the cursor to the right one character, extending the column selection;Visual Studio
+Ctrl-Shift-End;Moves the cursor to the end of the document, extending the selection;Visual Studio
+Ctrl-Shift-Home;Moves the cursor to the start of the document, extending the selection;Visual Studio
+Ctrl-Shift-];Moves the cursor to the next brace, extending the selection;Visual Studio
+Shift-Down Arrow;Moves the cursor down one line, extending the selection;Visual Studio
+Shift-Alt-Down Arrow;Moves the cursor down one line, extending the column selection;Visual Studio
+Shift-End;Moves the cursor to the end of the current line, extending the selection;Visual Studio
+Shift-Alt-End;Moves the cursor to the end of the line, extending the column selection;Visual Studio
+Shift-Home;Moves the cursor to the start of the line, extending the selection;Visual Studio
+Shift-Alt-Home;Moves the cursor to the start of the line, extending the column selection;Visual Studio
+Shift-Up Arrow;Moves the cursor up one line, extending the selection;Visual Studio
+Shift-Alt-Up Arrow;Moves the cursor up one line, extending the column selection;Visual Studio
+Shift-Page Down;Extends selection down one page;Visual Studio
+Shift-Page Up;Extends selection up one page;Visual Studio
+Ctrl-A;Selects everything in the current document;Visual Studio
+Ctrl-W;Selects the word containing the cursor or the word to the right of the cursor;Visual Studio
+Ctrl-=;Selects from the current location in the editor back to the previous location in the navigation history;Visual Studio
+Ctrl-Shift-Page Down;Moves the cursor to the last line in view, extending the selection;Visual Studio
+Ctrl-Shift-Page Up;Moves the cursor to the top of the current window, extending the selection;Visual Studio
+Ctrl-Shift-Alt-Right Arrow;Moves the cursor to the right one word, extending the column selection;Visual Studio
+Ctrl-Shift-Left Arrow;Moves the cursor one word to the left, extending the selection;Visual Studio
+Ctrl-Shift-Alt-Left Arrow;Moves the cursor to the left one word, extending the column selection;Visual Studio
+Ctrl-X or Shift-Delete;Cuts the currently selected item to the clipboard;Visual Studio
+Ctrl-C or Ctrl-Insert;Copies the currently selected item to the clipboard;Visual Studio
+Ctrl-V or Shift-Insert;Pastes the item in the clipboard at the cursor;Visual Studio
+Ctrl-Z or Alt-Backspace;Undo previous editing action;Visual Studio
+Ctrl-Y or Ctrl-Shift-Z;Redo the previous undo action;Visual Studio
+Ctrl-Shift-V or Ctrl-Shift-Insert;Pastes an item from the clipboard ring tab of the Toolbox at the cursor in the file and automatically selects the pasted item. Cycle through the items on the clipboard by pressing the shortcut keys repeatedly;Visual Studio
+Esc;Closes a menu or dialog, cancels an operation in progress, or places focus in the current document window;Visual Studio
+Ctrl-S;Saves the selected files in the current project (usually the file that is being edited);Visual Studio
+Ctrl-Shift-S;Saves all documents and projects;Visual Studio
+Ctrl-P;Displays the Print dialog;Visual Studio
+F7;Switches from the design view to the code view in the editor;Visual Studio
+Shift-F7;Switches from the code view to the design view in the editor;Visual Studio
+F8;Moves the cursor to the next item, for example in the TaskList window or Find Results window;Visual Studio
+Shift-F8;Moves the cursor to the previous item, for example in the TaskList window or Find Results window;Visual Studio
+Shift-F12;Finds a reference to the selected item or the item under the cursor;Visual Studio
+Ctrl-Shift-G;Opens the file whose name is under the cursor or is currently selected;Visual Studio
+Ctrl-/;Switches focus to the Find/Command box on the Standard toolbar;Visual Studio
+Ctrl-Shift-F12;Moves to the next task in the TaskList window;Visual Studio
+Ctrl-Shift-8;Moves backward in the browse history. Available in the object browser or Class View window;Visual Studio
+Alt-Left Arrow;Go back in the web browser history;Visual Studio
+Alt-Right Arrow;Go forward in the web browser history;Visual Studio
+Left Arrow;Moves the cursor one character to the left;Visual Studio
+Right Arrow;Moves the cursor one character to the right;Visual Studio
+Down Arrow;Moves the cursor down one line;Visual Studio
+Up Arrow;Moves the cursor up one line;Visual Studio
+Page Down;Scrolls down one screen in the editor window;Visual Studio
+Page Up;Scrolls up one screen in the editor window;Visual Studio
+End;Moves the cursor to the end of the current line;Visual Studio
+Home;Moves the cursor to the beginning of the line. If you press Home when the cursor is already at the start of the line, it will toggle the cursor between the first non-whitespace character and the real start of the line;Visual Studio
+Ctrl-End;Moves the cursor to the end of the document;Visual Studio
+Ctrl-Home;Moves the cursor to the start of the document;Visual Studio
+Ctrl-G;Displays the Go to Line dialog. If the debugger is running, the dialog also lets you specify addresses or function names to go to;Visual Studio
+Ctrl-];Moves the cursor to the matching brace in the document. If the cursor is on an opening brace, this will move to the corresponding closing brace and vice versa;Visual Studio
+Ctrl-K, Ctrl-N;Moves to the next bookmark in the document;Visual Studio
+Ctrl-K, Ctrl-P;Moves to the previous bookmark;Visual Studio
+Ctrl-K, Ctrl-I;Displays Quick Info, based on the current language;Visual Studio
+Ctrl-Down Arrow;Scrolls text down one line but does not move the cursor. This is useful for scrolling more text into view without losing your place. Available only in text editors;Visual Studio
+Ctrl-Up Arrow;Scrolls text up one line but does not move the cursor. Available only in text editors;Visual Studio
+Ctrl-Right Arrow;Moves the cursor one word to the right;Visual Studio
+Ctrl-Left Arrow;Moves the cursor one word to the left;Visual Studio
+Ctrl-Shift-1;Navigates to the next definition, declaration, or reference of an item. Available in the object browser and Class View window. Also available in source editing windows if you have already used the Edit.GoToReference (Shift-F12) shortcut;Visual Studio
+Ctrl-Shift-2;Navigates to the previous definition, declaration, or reference of an item;Visual Studio
+Enter;Inserts a new line;Visual Studio
+Delete;Deletes one character to the right of the cursor;Visual Studio
+Insert;Toggles between insert and overtype insertion modes;Visual Studio
+Tab;Indents the currently selected line or lines by one tab stop. If there is no selection, this inserts a tab stop;Visual Studio
+Shift-Tab;Moves current line or selected lines one tab stop to the left;Visual Studio
+Backspace or Shift-Backspace;Deletes one character to the left of the cursor;Visual Studio
+Ctrl-K, Ctrl-C;Marks the current line or selected lines of code as a comment, using the correct comment syntax for the programming language;Visual Studio
+Ctrl-K, Ctrl-U;Removes the comment syntax from the current line or currently selected lines of code;Visual Studio
+Ctrl-T or Shift-Enter;Swaps the characters on either side of the cursor. (For example, AC|BD becomes AB|CD.) Available only in text editors;Visual Studio
+Ctrl-K, Ctrl-L;Removes all unnamed bookmarks in the current document;Visual Studio
+Ctrl-M, Ctrl-O;Automatically determines logical boundaries for creating regions in code, such as procedures, and then hides them. This collapses all such regions in the current document;Visual Studio
+Alt-Right Arrow or Ctrl-Spacebar;Displays statement completion based on the current language or autocompletes word if existing text unambiguously identifies a single symbol;Visual Studio
+Ctrl-K, Ctrl-\;Removes horizontal whitespace in the selection or deletes whitespace adjacent to the cursor if there is no selection;Visual Studio
+Ctrl-K, Ctrl-F;Applies the indenting and space formatting for the language as specified on the Formatting pane of the language in the Text Editor section of the Options dialog to the selected text.;Visual Studio
+Ctrl-L;Cuts all selected lines or the current line if nothing has been selected to the clipboard;Visual Studio
+Ctrl-Shift-L;Deletes all selected lines or the current line if no selection has been made;Visual Studio
+Ctrl-Enter;Inserts a blank line above the cursor;Visual Studio
+Ctrl-Shift-Enter;Inserts a blank line below the cursor;Visual Studio
+Shift-Alt-T;Moves the line containing the cursor below the next line;Visual Studio
+Ctrl-J;Lists members for statement completion when editing code;Visual Studio
+Ctrl-U;Changes the selected text to lowercase characters;Visual Studio
+Ctrl-Shift-U;Changes the selected text to uppercase characters;Visual Studio
+Ctrl-Shift-Spacebar;Displays a tooltip that contains information for the current parameter, based on the current language;Visual Studio
+Ctrl-M, Ctrl-U;Removes the outlining information for the currently selected region;Visual Studio
+Ctrl-M, Ctrl-P;Removes all outlining information from the entire document;Visual Studio
+Ctrl-R, Ctrl-P;Swaps the anchor and endpoint of the current selection;Visual Studio
+Ctrl-M, Ctrl-L;Toggles all previously marked hidden text sections between hidden and display states;Visual Studio
+Ctrl-K, Ctrl-K;Sets or removes a bookmark at the current line;Visual Studio
+Ctrl-M, Ctrl-M;Toggles the currently selected hidden text section or the section containing the cursor if there is no selection between the hidden and display states;Visual Studio
+Ctrl-K, Ctrl-H;Sets or removes a shortcut in the tasklist to the current line;Visual Studio
+Ctrl-R, Ctrl-R;Enables or disables word wrap in an editor;Visual Studio
+Ctrl-R, Ctrl-W;Shows or hides spaces and tab marks;Visual Studio
+Ctrl-Delete;Deletes the word to the right of the cursor;Visual Studio
+Ctrl-Backspace;Deletes the word to the left of the cursor;Visual Studio
+Ctrl-Shift-T;Transposes the two words that follow the cursor. (For example, |End Sub would be changed to read Sub End|.);Visual Studio
+Ctrl-.[dot];Display options on smarttag menu.Very useful for showing using/Imports options.;Visual Studio
+Shift-Left Arrow;Moves the cursor to the left one character, extending the selection;Visual Studio
+Shift-Alt-Left Arrow;Moves the cursor to the left one character, extending the column selection;Visual Studio
+Shift-Right Arrow;Moves the cursor to the right one character, extending the selection;Visual Studio
+Shift-Alt-Right Arrow;Moves the cursor to the right one character, extending the column selection;Visual Studio
+Ctrl-Shift-End;Moves the cursor to the end of the document, extending the selection;Visual Studio
+Ctrl-Shift-Home;Moves the cursor to the start of the document, extending the selection;Visual Studio
+Ctrl-Shift-];Moves the cursor to the next brace, extending the selection;Visual Studio
+Shift-Down Arrow;Moves the cursor down one line, extending the selection;Visual Studio
+Shift-Alt-Down Arrow;Moves the cursor down one line, extending the column selection;Visual Studio
+Shift-End;Moves the cursor to the end of the current line, extending the selection;Visual Studio
+Shift-Alt-End;Moves the cursor to the end of the line, extending the column selection;Visual Studio
+Shift-Home;Moves the cursor to the start of the line, extending the selection;Visual Studio
+Shift-Alt-Home;Moves the cursor to the start of the line, extending the column selection;Visual Studio
+Shift-Up Arrow;Moves the cursor up one line, extending the selection;Visual Studio
+Shift-Alt-Up Arrow;Moves the cursor up one line, extending the column selection;Visual Studio
+Shift-Page Down;Extends selection down one page;Visual Studio
+Shift-Page Up;Extends selection up one page;Visual Studio
+Ctrl-A;Selects everything in the current document;Visual Studio
+Ctrl-W;Selects the word containing the cursor or the word to the right of the cursor;Visual Studio
+Ctrl-=;Selects from the current location in the editor back to the previous location in the navigation history;Visual Studio
+Ctrl-Shift-Page Down;Moves the cursor to the last line in view, extending the selection;Visual Studio
+Ctrl-Shift-Page Up;Moves the cursor to the top of the current window, extending the selection;Visual Studio
+Ctrl-Shift-Alt-Right Arrow;Moves the cursor to the right one word, extending the column selection;Visual Studio
+Ctrl-Shift-Left Arrow;Moves the cursor one word to the left, extending the selection;Visual Studio
+Ctrl-Shift-Alt-Left Arrow;Moves the cursor to the left one word, extending the column selection;Visual Studio
+Ctrl-Shift-B ;Builds the solution;Visual Studio
+Ctrl-N;Displays the New File dialog. Note: files created this way are not associated with a project. Use Ctrl-Shift-A to add a new file in a project;Visual Studio
+Ctrl-Shift-N;Displays the New Project dialog;Visual Studio
+Ctrl-O;Displays the Open File dialog;Visual Studio
+Ctrl-Shift-O;Displays the Open Project dialog;Visual Studio
+Shift-Alt-A;Displays the Add Existing Item dialog;Visual Studio
+Ctrl-Shift-A;Displays the Add New Item dialog;Visual Studio
+Ctrl-Alt-Insert;Allows you to override base class methods in a derived class when an overridable method is highlighted in the Class View pane;Visual Studio
+Shift-Alt-Enter;Toggles full screen mode;Visual Studio
+Ctrl-+;Goes back to the previous location in the navigation history. (For example, if you press Ctrl-Home to go to the start of a document, this shortcut will take the cursor back to wherever it was before you pressed Ctrl-Home.);Visual Studio
+Ctrl-Shift-+;Moves forward in the navigation history. This is effectively an undo for the View.NavigateBackward operation;Visual Studio
+Ctrl-F4;Closes the current MDI child window;Visual Studio
+Shift-Esc;Closes the current tool window;Visual Studio
+Ctrl-F2;Moves the cursor to the navigation bar at the top of a code view;Visual Studio
+Ctrl-Tab ;Cycles through the MDI child windows one window at a time;Visual Studio
+Ctrl-F6,Ctrl-Shift-Tab;Moves to the previous MDI child window;Visual Studio
+Alt-F6,Ctrl-Shift-F6;Moves to the next tool window;Visual Studio
+Shift-Alt-F6;Moves to the previously selected window;Visual Studio
+F6;Moves to the next pane of a split pane view of a single document;Visual Studio
+Shift-F6;Moves to the previous pane of a document in split pane view;Visual Studio
+Ctrl-Pagedown;Moves to the next tab in the document or window (e.g., you can use this to switch the HTML editor from its design view to its HTML view;Visual Studio
+Ctrl-PageUp;Moves to the previous tab in the document or window;Visual Studio
+Ctrl-Down Arrow;Moves the selected control down in increments of one on the design surface;Visual Studio
+Down Arrow;Moves the selected control down to the next grid position on the design surface;Visual Studio
+Ctrl-Left Arrow;Moves the control to the left in increments of one on the design surface;Visual Studio
+Left Arrow;Moves the control to the left to the next grid position on the design surface;Visual Studio
+Ctrl-Right Arrow;Moves the control to the right in increments of one on the design surface;Visual Studio
+Right Arrow;Moves the control to the right into the next grid position on the design surface;Visual Studio
+Ctrl-Up Arrow;Moves the control up in increments of one on the design surface;Visual Studio
+Up Arrow;Moves the control up into the next grid position on the design surface;Visual Studio
+Tab;Moves to the next control in the tab order;Visual Studio
+Shift-Tab;Moves to the previous control in the tab order;Visual Studio
+Ctrl-Shift-Down Arrow;Increases the height of the control in increments of one on the design surface;Visual Studio
+Shift-Down Arrow;Increases the height of the control to the next grid position on the design surface;Visual Studio
+Ctrl-Shift-Left Arrow;Reduces the width of the control in increments of one on the design surface;Visual Studio
+Shift-Left Arrow;Reduces the width of the control to the next grid position on the design surface;Visual Studio
+Ctrl-Shift-Right Arrow;Increases the width of the control in increments of one on the design surface;Visual Studio
+Shift-Left Arrow;Increases the width of the control to the next grid position on the design surface;Visual Studio
+Ctrl-Shift-Up Arrow;Decreases the height of the control in increments of one on the design surface;Visual Studio
+Shift-Up Arrow;Decreases the height of the control to the next grid position on the design surface;Visual Studio
+Ctrl-F;Displays the Find dialog;Visual Studio
+Ctrl-Shift-F;Displays the Find in Files dialog;Visual Studio
+F3;Finds the next occurrence of the previous search text;Visual Studio
+Ctrl-F3;Finds the next occurrence of the currently selected text or the word under the cursor if there is no selection;Visual Studio
+Shift-F3;Finds the previous occurrence of the search text;Visual Studio
+Ctrl-Shift-F3;Finds the previous occurrence of the currently selected text or the word under the cursor;Visual Studio
+Ctrl-D;Places the cursor in the Find/Command line on the Standard toolbar;Visual Studio
+Alt-F3, H;Selects or clears the Search Hidden Text option for the Find dialog;Visual Studio
+Ctrl-I;Starts an incremental search—after pressing Ctrl-I, you can type in text, and for each letter you type, VS.NET will find the first occurrence of the sequence of letters you have typed so far. This is a very convenient facility, as it lets you find text by typing in exactly as many characters as are required to locate the text and no more. If you press Ctrl-I a second time without typing any characters, it recalls the previous pattern. If you press it a third time or you press it when an incremental search has already found a match, VS.NET searches for the next occurrence.;Visual Studio
+Alt-F3, C;Selects or clears the Match Case option for Find and Replace operations;Visual Studio
+Alt-F3, R;Selects or clears the Regular Expression option so that special characters can be used in Find and Replace operations;Visual Studio
+Ctrl-H;Displays the Replace dialog;Visual Studio
+Ctrl-Shift-H;Displays the Replace in Files dialog;Visual Studio
+Ctrl-Shift-I;Performs an incremental search in reverse direction;Visual Studio
+Alt-F3, S;Halts the current Find in Files operation;Visual Studio
+Alt-F3, B;Selects or clears the Search Up option for Find and Replace operations;Visual Studio
+Alt-F3, W;Selects or clears the Match Whole Word option for Find and Replace operations;Visual Studio
+Alt-F3, P;Selects or clears the Wildcard option for Find and Replace operations;Visual Studio
+Ctrl-Alt-F1;Displays the Contents window for the documentation;Visual Studio
+Ctrl-F1;Displays the Dynamic Help window, which displays different topics depending on what items currently have focus. If the focus is in a source window, the Dynamic Help window will display help topics that are relevant to the text under the cursor;Visual Studio
+F1;Displays a topic from Help that corresponds to the part of the user interface that currently has the focus. If the focus is in a source window, Help will try to display a topic relevant to the text under the cursor;Visual Studio
+Ctrl-Alt-F2;Displays the Help Index window;Visual Studio
+Shift-Alt-F2;Displays the Index Results window, which lists the topics that contain the keyword selected in the Index window;Visual Studio
+Alt-Down Arrow;Displays the next topic in the table of contents. Available only in the Help browser window;Visual Studio
+Alt-Up Arrow;Displays the previous topic in the table of contents. Available only in the Help browser window;Visual Studio
+Ctrl-Alt-F3;Displays the Search window, which allows you to search for words or phrases in the documentation;Visual Studio
+Shift-Alt-F3;Displays the Search Results window, which displays a list of topics that contain the string searched for from the Search window.;Visual Studio
+Shift-F1;Displays a topic from Help that corresponds to the user interface item that has the focus;Visual Studio
+Ctrl-Alt-V, A;Displays the Auto window to view the values of variables currently in the scope of the current line of execution within the current procedure;Visual Studio
+Ctrl-Alt-Break;Temporarily stops execution of all processes in a debugging session. Available only in run mode;Visual Studio
+Ctrl-Alt-B;Displays the Breakpoints dialog, where you can add and modify breakpoints;Visual Studio
+Ctrl-Alt-C;Displays the Call Stack window to display a list of all active procedures or stack frames for the current thread of execution. Available only in break mode;Visual Studio
+Ctrl-Shift-F9;Clears all of the breakpoints in the project;Visual Studio
+Ctrl-Alt-D;Displays the Disassembly window;Visual Studio
+Ctrl-F9;Enables or disables the breakpoint on the current line of code. The line must already have a breakpoint for this to work;Visual Studio
+Ctrl-Alt-E;Displays the Exceptions dialog;Visual Studio
+Ctrl-Alt-I;Displays the Immediate window, where you can evaluate expressions and execute individual commands;Visual Studio
+Ctrl-Alt-V, L;Displays the Locals window to view the variables and their values for the currently selected procedure in the stack frame;Visual Studio
+Ctrl-Alt-M, 1;Displays the Memory 1 window to view memory in the process being debugged. This is particularly useful when you do not have debugging symbols available for the code you are looking at. It is also helpful for looking at large buffers, strings, and other data that does not display clearly in the Watch or Variables window;Visual Studio
+Ctrl-Alt-M, 2;Displays the Memory 2 window;Visual Studio
+Ctrl-Alt-M, 3;Displays the Memory 3 window;Visual Studio
+Ctrl-Alt-M, 4;Displays the Memory 4 window;Visual Studio
+Ctrl-Alt-U;Displays the Modules window, which allows you to view the .dll or .exe files loaded by the program. In multiprocess debugging, you can right-click and select Show Modules for all programs;Visual Studio
+Ctrl-B;Opens the New Breakpoint dialog;Visual Studio
+Ctrl-Alt-Q;Displays the Quick Watch dialog with the current value of the selected expression. Available only in break mode. Use this command to check the current value of a variable, property, or other expression for which you have not defined a watch expression;Visual Studio
+Ctrl-Alt-G;Displays the Registers window, which displays CPU register contents;Visual Studio
+Ctrl-Shift-F5;Terminates the current debugging session, rebuilds if necessary, and then starts a new debugging session. Available in break and run modes;Visual Studio
+Ctrl-Alt-N;Displays the Running Documents window that displays the set of HTML documents that you are in the process of debugging. Available in break and run modes;Visual Studio
+Ctrl-F10;Starts or resumes execution of your code and then halts execution when it reaches the selected statement. This starts the debugger if it is not already running;Visual Studio
+Ctrl-Shift-F10;Sets the execution point to the line of code you choose;Visual Studio
+Alt-NUM *;Highlights the next statement to be executed;Visual Studio
+F5;If not currently debugging, this runs the startup project or projects and attaches the debugger. If in break mode, this allows execution to continue (i.e., it returns to run mode).;Visual Studio
+Ctrl-F5;"Runs the code without invoking the debugger. For console applications, this also arranges for the console window to stay open with a ""Press any key to continue"" prompt when the program finishes";Visual Studio
+F11;Executes code one statement at a time, tracing execution into function calls;Visual Studio
+Shift-F11;Executes the remaining lines of a function in which the current execution point lies;Visual Studio
+F10;Executes the next line of code but does not step into any function calls;Visual Studio
+Shift-F5;Available in break and run modes, this terminates the debugging session;Visual Studio
+Ctrl-Alt-V, T;Displays the This window, which allows you to view the data members of the object associated with the current method;Visual Studio
+Ctrl-Alt-H;Displays the Threads window to view all of the threads for the current process;Visual Studio
+F9;Sets or removes a breakpoint at the current line;Visual Studio
+Ctrl-F11;Displays the disassembly information for the current source file. Available only in break mode;Visual Studio
+Ctrl-Alt-W, 1;Displays the Watch 1 window to view the values of variables or watch expressions;Visual Studio
+Ctrl-Alt-W, 2;Displays the Watch 2 window;Visual Studio
+Ctrl-Alt-W, 3;Displays the Watch 3 window;Visual Studio
+Ctrl-Alt-W, 4;Displays the Watch 4 window;Visual Studio
+Ctrl-Alt-P;Displays the Processes dialog, which allows you to attach or detach the debugger to one or more running processes;Visual Studio
+Alt-F12;Displays the Find Symbol dialog;Visual Studio
+Ctrl-F12;Displays the declaration of the selected symbol in the code;Visual Studio
+F12;Displays the definition for the selected symbol in code;Visual Studio
+Ctrl-Alt-F12;Displays the Find Symbol Results window;Visual Studio
+Ctrl-Alt-J;Displays the Object Browser to view the classes, properties, methods, events, and constants defined either in your project or by components and type libraries referenced by your project;Visual Studio
+Alt-+;Moves back to the previously selected object in the selection history of the object browser;Visual Studio
+Shift-Alt-+;Moves forward to the next object in the selection history of the object browser;Visual Studio
+Ctrl-Shift-M;Toggles the Command window into or out of a mode allowing text within the window to be selected;Visual Studio
+Ctrl-Shift-C;Displays the Class View window;Visual Studio
+Ctrl-Alt-A;Displays the Command window, which allows you to type commands that manipulate the IDE;Visual Studio
+Ctrl-Alt-T;Displays the Document Outline window to view the flat or hierarchical outline of the current document;Visual Studio
+Ctrl-Alt-F;Displays the Favorites window, which lists shortcuts to web pages;Visual Studio
+Ctrl-Alt-O;Displays the Output window to view status messages at runtime;Visual Studio
+F4;Displays the Properties window, which lists the design-time properties and events for the currently selected item;Visual Studio
+Shift-F4;Displays the property pages for the item currently selected. (For example, use this to show a project's settings.);Visual Studio
+Ctrl-Shift-E;Displays the Resource View window;Visual Studio
+Ctrl-Alt-S;Displays the Server Explorer window, which allows you to view and manipulate database servers, event logs, message queues, web services, and many other operating system services;Visual Studio
+Ctrl-Alt-R;Displays the web browser window, which allows you to view pages on the Internet;Visual Studio
+Ctrl-Alt-L;Displays the Solution Explorer, which lists the projects and files in the current solution;Visual Studio
+Ctrl-Alt-K;Displays the TaskList window, which displays tasks, comments, shortcuts, warnings, and error messages;Visual Studio
+Ctrl-Alt-X;Displays the Toolbox, which contains controls and other items that can be dragged into editor and designer windows;Visual Studio
+Ctrl-B;Toggles the selected text between bold and normal;Visual Studio
+Ctrl-Shift-T;Decreases the selected paragraph by one indent unit;Visual Studio
+Ctrl-T;Indents the selected paragraph by one indent unit;Visual Studio
+Ctrl-I;Toggles the selected text between italic and normal;Visual Studio
+Ctrl-Shift-K;Prevents an absolutely positioned element from being inadvertently moved. If the element is already locked, this unlocks it;Visual Studio
+Ctrl-G;Toggles the grid;Visual Studio
+Ctrl-Shift-G;Specifies that elements be aligned using an invisible grid. You can set grid spacing on the Design pane of HTML designer options in the Options dialog, and the grid will be changed the next time you open a document;Visual Studio
+Ctrl-U;Toggles the selected text between underlined and normal;Visual Studio
+Ctrl-Shift-L;Displays the Bookmark dialog;Visual Studio
+Ctrl-J;Inserts <div></div> in the current HTML document;Visual Studio
+Ctrl-L;When text is selected, displays the Hyperlink dialog;Visual Studio
+Ctrl-Shift-W;Displays the Insert Image dialog;Visual Studio
+Ctrl-Alt-Up Arrow;Adds one row above the current row in the table;Visual Studio
+Ctrl-Alt-Down Arrow;Adds one row below the current row in the table;Visual Studio
+Ctrl-Alt-Left Arrow;Adds one column to the left of the current column in the table;Visual Studio
+Ctrl-Alt-Right Arrow;Adds one column to the right of the current column in the table;Visual Studio
+Ctrl-Shift-Q;Toggles display of marker icons for HTML elements that do not have a visual representation, such as comments, scripts, and anchors for absolutely positioned elements;Visual Studio
+Ctrl-Page Down;Switches from design view to HTML view and vice versa;Visual Studio
+Ctrl-Q;Displays a 1-pixel border around HTML elements that support a BORDER attribute and have it set to zero, such as tables, table cells, and divisions;Visual Studio
+Alt-F8;Displays the Macro Explorer window, which lists all available macros;Visual Studio
+Alt-F11;Launches the macros IDE;Visual Studio
+Ctrl-Shift-R;Places the environment in macro record mode or completes recording if already in record mode;Visual Studio
+Ctrl-Shift-P;Plays back a recorded macro;Visual Studio
+Ctrl+N;Create new project using the Wizard;Eclipse
+Ctrl+Alt+N;Create new project, file, class, etc.;Eclipse
+Alt+F, then .;Open project, file, etc.;Eclipse
+Ctrl+Shift+R;Open Resource (file, folder or project);Eclipse
+Alt+Enter;Show and access file properties;Eclipse
+Ctrl+S;Save current file;Eclipse
+Ctrl+Shift+S;Save all files;Eclipse
+Ctrl+W;Close current file;Eclipse
+Ctrl+Shift+W;Close all files;Eclipse
+F5;Refresh content of selected element with local file system;Eclipse
+F12;Jump to Editor Window;Eclipse
+Ctrl+Page Down/Ctrl+Page Up;Switch to next editor / switch to previous editor;Eclipse
+Ctrl+M;Maximize or un-maximize current Editor Window (also works for other Windows);Eclipse
+Ctrl+E;Show list of open Editors. Use arrow keys and enter to switch;Eclipse
+Ctrl+F6/Ctrl+Shift+F6;Show list of open Editors. Similar to ctrl+e but switches immediately upon release of ctrl;Eclipse
+Alt+Arrow Left/Alt+Arrow Right;Go to previous / go to next Editor Window;Eclipse
+Alt+-;Open Editor Window Option menu;Eclipse
+Ctrl+F10;Show view menu (features available on left vertical bar: breakpoints, bookmarks, line numbers, …);Eclipse
+Ctrl+F10, then n;Show or hide line numbers;Eclipse
+Ctrl+Shift+Q;Show or hide the diff column on the left (indicates changes since last save);Eclipse
+Home/End;Jump to beginning / jump to end of indention. Press home twice to jump to beginning of line;Eclipse
+Ctrl+Home/End;Jump to beginning / jump to end of source;Eclipse
+Ctrl+Arrow Right/Arrow Left;Jump one word to the left / one word to the right;Eclipse
+Ctrl+Shift+Arrow Down/Arrow Up;Jump to previous / jump to next method;Eclipse
+Ctrl+L;Jump to Line Number. To hide/show line numbers, press ctrl+F10 and select 'Show Line Numbers';Eclipse
+Ctrl+Q;Jump to last location edited;Eclipse
+Ctrl+./Ctrl+,;Jump to next / jump to previous compiler syntax warning or error;Eclipse
+Ctrl+Shift+P;With a bracket selected: jump to the matching closing or opening bracket;Eclipse
+Ctrl+[+]/Ctrl+- on numeric keyboard;Collapse / Expand current method or class;Eclipse
+Ctrl+[/]/Ctrl+* on numeric keyboard;Collapse / Expand all methods or classes;Eclipse
+Ctrl+Arrow Down/Ctrl+Arrow Up;Scroll Editor without changing cursor position;Eclipse
+Alt+Page Up/Alt+Page Down;Next Sub-Tab / Previous Sub-Tab;Eclipse
+Shift+Arrow Right/Arrow Left;Expand selection by one character to the left / to the right;Eclipse
+Ctrl+Shift+Arrow Right/Arrow Left;Expand selection to next / previous word;Eclipse
+Shift+Arrow Down/Arrow Up;Expand selection by one line down / one line up;Eclipse
+Shift+End/Home;Expand selection to end / to beginning of line;Eclipse
+Ctrl+A;Select all;Eclipse
+Alt+Shift+Arrow Up;Expand selection to current element (e.g. current one-line expression or content within brackets);Eclipse
+Alt+Shift+Arrow Left/Arrow Right;Expand selection to next / previous element;Eclipse
+Alt+Shift+Arrow Down;Reduce previously expanded selection by one step;Eclipse
+Ctrl+C/Ctrl+X/Ctrl+V;Cut, copy and paste;Eclipse
+Ctrl+Z;Undo last action;Eclipse
+Ctrl+Y;Redo last (undone) action;Eclipse
+Ctrl+D;Delete Line;Eclipse
+Alt+Arrow Up/Arrow Down;Move current line or selection up or down;Eclipse
+Ctrl+Alt+Arrow Up/Ctrl+Alt+Arrow Down/;Duplicate current line or selection up or down;Eclipse
+Ctrl+Delete;Delete next word;Eclipse
+Ctrl+Backspace;Delete previous word;Eclipse
+Shift+Enter;Enter line below current line;Eclipse
+Shift+Ctrl+Enter;Enter line above current line;Eclipse
+Insert;Switch between insert and overwrite mode;Eclipse
+Shift+Ctrl+Y;Change selection to all lower case;Eclipse
+Shift+Ctrl+X;Change selection to all upper case;Eclipse
+Ctrl+F;Open find and replace dialog;Eclipse
+Ctrl+K/Ctrl+Shift+K;Find previous / find next occurrence of search term (close find window first);Eclipse
+Ctrl+H;Search Workspace (Java Search, Task Search, and File Search);Eclipse
+Ctrl+J/Ctrl+Shift+J;Incremental search forward / backwards. Type search term after pressing ctrl+j, there is now search window;Eclipse
+Ctrl+Shift+O;Open a resource search dialog to find any class;Eclipse
+Tab/Shift+Tab;Increase / decrease indent of selected text;Eclipse
+Ctrl+I;Correct indention of selected text or of current line;Eclipse
+Ctrl+Shift+F;Autoformat all code in Editor using code formatter;Eclipse
+Ctrl+/;Comment / uncomment line or selection ( adds '//' );Eclipse
+Ctrl+Shift+/;Add Block Comment around selection ( adds '/... */' );Eclipse
+Ctrl+Shift+\;Remove Block Comment;Eclipse
+Alt+Shift+J;Add Element Comment ( adds '/** ... */');Eclipse
+Ctrl+Space;Opens Content Assist (e.g. show available methods or field names);Eclipse
+Ctrl+1;Open Quick Fix and Quick Assist;Eclipse
+Alt+/;Propose word completion (after typing at least one letter). Repeatedly press alt+/ until reaching correct name;Eclipse
+Ctrl+Shift+Insert;Deactivate or activate Smart Insert Mode (automatic indention, automatic brackets, etc.);Eclipse
+Ctrl+O;Show code outline / structure;Eclipse
+F2;Open class, method, or variable information (tooltip text);Eclipse
+F3;Open Declaration: Jump to Declaration of selected class, method, or parameter;Eclipse
+F4;Open Type Hierarchy window for selected item;Eclipse
+Ctrl+T;Show / open Quick Type Hierarchy for selected item;Eclipse
+Ctrl+Shift+T;Open Type in Hierarchy;Eclipse
+Ctrl+Alt+H;Open Call Hierarchy;Eclipse
+Ctrl+Shift+U;Find occurrences of expression in current file;Eclipse
+Ctrl+move over method;Open Declaration or Implementation;Eclipse
+Alt+Shift+R;Rename selected element and all references;Eclipse
+Alt+Shift+V;Move selected element to other class or file (With complete method or class selected);Eclipse
+Alt+Shift+C;Change method signature (with method name selected);Eclipse
+Alt+Shift+M;Extract selection to method;Eclipse
+Alt+Shift+L;Extract local variable: Create and assigns a variable from a selected expression;Eclipse
+Alt+Shift+I;Inline selected local variables, methods, or constants if possible (replaces variable with its declarations/ assignment and puts it directly into the statements);Eclipse
+Ctrl+F11;Save and launch application (run);Eclipse
+F11;Debug;Eclipse
+F5;Step Into function;Eclipse
+F6;Next step (line by line);Eclipse
+F7;Step out;Eclipse
+F8;Skip to next Breakpoint;Eclipse
+Ctrl+F7/Ctrl+Shift+F7;Switch forward / backward between views (panels). Useful for switching back and forth between Package Explorer and Editor.;Eclipse
+Ctrl+F8/Ctrl+Shift+F8;Switch forward / backward between perspectives;Eclipse
+Ctrl+P;Print;Eclipse
+F1;Open Eclipse Help;Eclipse
+Shift+F10;Show Context Menu right click with mouse;Eclipse
+Ctrl+Alt+S;Synchronize with Repository;Eclipse
+Ctrl+Alt+C;Commit;Eclipse
+Ctrl+Alt+U;Update;Eclipse
+Ctrl+Alt+D;Update to Revision;Eclipse
+Ctrl+Alt+E;Merge;Eclipse
+Ctrl+Alt+T;Show Properties;Eclipse
+Ctrl+Alt+I;Add to svn:ignore;Eclipse

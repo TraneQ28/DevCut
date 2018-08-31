@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DevCut.Logic.Processing.AbstractDataManager">
+    <Position X="14.25" Y="7.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABAAAAAAAAAACACAAAAAAAAA=</HashCode>
+      <FileName>Processing\AbstractDataManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevCut.Logic.IO.CategoryController" Collapsed="true">
+    <Position X="14.25" Y="9.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAABAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IO\CategoryController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevCut.Logic.IO.CsvXmlConverter">
+    <Position X="11.5" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgEAAAAAAAAABAAAAAAAAACAAAAA=</HashCode>
+      <FileName>IO\CsvXmlConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevCut.Logic.IO.FileWriter" Collapsed="true">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IO\FileWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevCut.Logic.IO.InstallFinder" Collapsed="true">
+    <Position X="17.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAABAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IO\InstallFinder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevCut.Logic.IO.JsonParser">
+    <Position X="11.5" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IO\JsonParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevCut.Logic.Processing.ApplicationDataRepository">
+    <Position X="0.5" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAIIACABAAAEBAAAAABECAAAAgAAAAQAIAAAAAAAI=</HashCode>
+      <FileName>Processing\ApplicationDataRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevCut.Logic.Processing.ApplicationManager">
+    <Position X="18.25" Y="7.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABAAAAAAAAAACAAAACAAAAAA=</HashCode>
+      <FileName>Processing\ApplicationManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevCut.Logic.Processing.AbstractDataRepository&lt;T&gt;">
+    <Position X="4.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAIAFAAAAABAAAAAAAAAAAACAAAAAAAAI=</HashCode>
+      <FileName>Processing\BaseDataRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevCut.Logic.Processing.CategoryDataRepository">
+    <Position X="4.25" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAIIACABAAAEBAAAAABACAAAAgAAAAQAIAAAAAAAI=</HashCode>
+      <FileName>Processing\CategoryDataRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevCut.Logic.Processing.DatabaseManager">
+    <Position X="7.5" Y="8.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAACAAABAAAAAAAAAAAAAAAAAAAABABAAA=</HashCode>
+      <FileName>Processing\DatabaseManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevCut.Logic.Processing.Filtering" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Processing\Filtering.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevCut.Logic.Processing.ProgramManager" BaseTypeListCollapsed="true">
+    <Position X="18.25" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAIAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Processing\ProgramManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DevCut.Logic.Processing.SettingsManager" Collapsed="true">
+    <Position X="16.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Processing\SettingsManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevCut.Logic.Processing.ShortcutDataRepository">
+    <Position X="7.5" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAIIACABAAAEBAAAAABAAAAAAAAAEAQAIAAgAAAAI=</HashCode>
+      <FileName>Processing\ShortcutDataRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevCut.Logic.Processing.ShortcutInformationParser" Collapsed="true">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Processing\ShortcutInformationParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevCut.Logic.Processing.ShortcutManager">
+    <Position X="14.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAABAAAAAAAAAAAEAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Processing\ShortcutManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevCut.Logic.Processing.VersionHelper" Collapsed="true">
+    <Position X="19" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Processing\VersionHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevCut.Logic.Properties.Resources" Collapsed="true">
+    <Position X="19" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAACBEAAAMQAACAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

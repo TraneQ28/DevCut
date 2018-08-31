@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DevCut.Contracts.BaseClasses.ViewModelBase">
+    <Position X="5.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BaseClasses\ViewModelBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="DevCut.Contracts.Interfaces.IProgram">
+    <Position X="0.5" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACEAAAAAAAAAAICAAQAAAAAAAAAAAAAAIAAAAACAA=</HashCode>
+      <FileName>Interfaces\IProgram.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DevCut.Contracts.Interfaces.IProgramManager">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAIAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IProgramManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DevCut.Contracts.Interfaces.IShortcut">
+    <Position X="0.5" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAIAAAAAAQAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IShortcut.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DevCut.Contracts.Interfaces.IShortcutManager">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAACIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IShortcutManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="DevCut.Contracts.Enums.AppCategory">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAAAAAAAEAAASAAAAAAAAAAAAAAAEAAACACAAAAAAAA=</HashCode>
+      <FileName>Enums\AppCategory.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,988 @@
+{
+  "ProgramInformation": [
+    {
+      "DisplayName": " Tools for .Net 3.5",
+      "DisplayVersion": "3.11.50727",
+      "InstallDate": "20171029",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": " Tools for .Net 3.5 - DEU Lang Pack",
+      "DisplayVersion": "3.11.50727",
+      "InstallDate": "20171029",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": ".NET Core SDK 1.1.5 (x64)",
+      "DisplayVersion": "1.1.5",
+      "InstallDate": null,
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": "C:\\ProgramData\\Package Cache\\{c1366c92-78b6-4ac9-852b-3eaabbc6b864}\\dotnet-dev-win-x64.1.1.5.exe,0",
+      "Category": ""
+    },
+    {
+      "DisplayName": "Adobe AIR",
+      "DisplayVersion": "27.0.0.124",
+      "InstallDate": "20171205",
+      "Publisher": "Adobe Systems Incorporated",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Adobe AIR",
+      "DisplayVersion": "27.0.0.124",
+      "InstallDate": null,
+      "Publisher": "Adobe Systems Incorporated",
+      "DisplayIconPath": "c:\\PROGRA~2\\COMMON~1\\ADOBEA~1\\Versions\\1.0\\RESOUR~1\\ADOBEA~1.EXE",
+      "Category": ""
+    },
+    {
+      "DisplayName": "Adobe Acrobat Reader DC - Deutsch",
+      "DisplayVersion": "18.009.20050",
+      "InstallDate": "20171201",
+      "Publisher": "Adobe Systems Incorporated",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Adobe Creative Suite 6 Master Collection",
+      "DisplayVersion": "6",
+      "InstallDate": null,
+      "Publisher": "Adobe Systems Incorporated",
+      "DisplayIconPath": "C:\\Program Files (x86)\\Common Files\\Adobe\\Adobe Creative Suite 6 Master Collection\\AMT\\master_install_pkg.ico",
+      "Category": ""
+    },
+    {
+      "DisplayName": "Adobe Refresh Manager",
+      "DisplayVersion": "1.8.0",
+      "InstallDate": "20171117",
+      "Publisher": "Adobe Systems Incorporated",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Assassin's Creed(R) III v1.06",
+      "DisplayVersion": "1.06",
+      "InstallDate": "20171128",
+      "Publisher": "Ubisoft",
+      "DisplayIconPath": "E:\\Games\\Assassins Creed III\\AC3SP.exe",
+      "Category": ""
+    },
+    {
+      "DisplayName": "Backup and Sync from Google",
+      "DisplayVersion": "3.38.7642.3857",
+      "InstallDate": "20171210",
+      "Publisher": "Google, Inc.",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Balsamiq Mockups 3",
+      "DisplayVersion": "3.5.15",
+      "InstallDate": "20171203",
+      "Publisher": "Balsamiq SRL",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Balsamiq Mockups 3",
+      "DisplayVersion": "3.5.15",
+      "InstallDate": null,
+      "Publisher": "Balsamiq SRL",
+      "DisplayIconPath": "C:\\Program Files (x86)\\Balsamiq Mockups 3\\Balsamiq Mockups 3.exe",
+      "Category": ""
+    },
+    {
+      "DisplayName": "Battle.net",
+      "DisplayVersion": null,
+      "InstallDate": null,
+      "Publisher": "Blizzard Entertainment",
+      "DisplayIconPath": "E:\\Games\\Battle.net\\Battle.net.exe",
+      "Category": ""
+    },
+    {
+      "DisplayName": "ClickOnce Bootstrapper Package for Microsoft .NET Framework",
+      "DisplayVersion": "4.6.01590",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Dropbox",
+      "DisplayVersion": "40.4.46",
+      "InstallDate": null,
+      "Publisher": "Dropbox, Inc.",
+      "DisplayIconPath": "C:\\Program Files (x86)\\Dropbox\\Client\\Dropbox.exe,0",
+      "Category": ""
+    },
+    {
+      "DisplayName": "Dropbox Update Helper",
+      "DisplayVersion": "1.3.65.1",
+      "InstallDate": "20171103",
+      "Publisher": "Dropbox, Inc.",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Entity Framework 6.1.3 Tools  for Visual Studio 15",
+      "DisplayVersion": "6.1.60104.0",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "GNU Privacy Guard",
+      "DisplayVersion": "2.2.1",
+      "InstallDate": null,
+      "Publisher": "The GnuPG Project",
+      "DisplayIconPath": "C:\\Program Files (x86)\\GnuPG\\bin\\gpg.exe,0",
+      "Category": ""
+    },
+    {
+      "DisplayName": "Google Update Helper",
+      "DisplayVersion": "1.3.33.7",
+      "InstallDate": "20171117",
+      "Publisher": "Google Inc.",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Gpg4win (3.0.0)",
+      "DisplayVersion": "3.0.0",
+      "InstallDate": null,
+      "Publisher": "The Gpg4win Project",
+      "DisplayIconPath": "C:\\Program Files (x86)\\Gpg4win\\bin\\kleopatra.exe,0",
+      "Category": ""
+    },
+    {
+      "DisplayName": "Gtk# for .Net 2.12.26",
+      "DisplayVersion": "2.12.26",
+      "InstallDate": "20171029",
+      "Publisher": "Xamarin, Inc.",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Heroes of the Storm",
+      "DisplayVersion": null,
+      "InstallDate": null,
+      "Publisher": "Blizzard Entertainment",
+      "DisplayIconPath": "E:\\Games\\Heroes of the Storm\\Support\\HeroesSwitcher.exe",
+      "Category": ""
+    },
+    {
+      "DisplayName": "IntelliTraceProfilerProxy",
+      "DisplayVersion": "15.0.25.0",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Intel® Chipsatz-Gerätesoftware",
+      "DisplayVersion": "10.1.1.38",
+      "InstallDate": null,
+      "Publisher": "Intel(R) Corporation",
+      "DisplayIconPath": "C:\\ProgramData\\Package Cache\\{bb0592a7-5772-4736-9d55-2402740085db}\\SetupChipset.exe,0",
+      "Category": ""
+    },
+    {
+      "DisplayName": "Java Auto Updater",
+      "DisplayVersion": "2.8.151.12",
+      "InstallDate": "20171029",
+      "Publisher": "Oracle Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Kumulatives Microsoft .NET Framework Intellisense Pack für Visual Studio (Deutsch)",
+      "DisplayVersion": "4.6.01604",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft .NET Core SDK - 2.0.3 (x64)",
+      "DisplayVersion": "2.0.3",
+      "InstallDate": null,
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": "C:\\ProgramData\\Package Cache\\{5c81045f-7a1c-4d79-9c41-32a11f6615fc}\\dotnet-sdk-2.0.3-win-x64.exe,0",
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft .NET Framework 4 Multi-Targeting Pack",
+      "DisplayVersion": "4.0.30319",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft .NET Framework 4.5 Multi-Targeting Pack",
+      "DisplayVersion": "4.5.50710",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft .NET Framework 4.5.1 Multi-Targeting Pack",
+      "DisplayVersion": "4.5.50932",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft .NET Framework 4.5.2 Multi-Targeting Pack",
+      "DisplayVersion": "4.5.51651",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft .NET Framework 4.6 Targeting Pack",
+      "DisplayVersion": "4.6.00081",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft .NET Framework 4.6.1 Developer Pack",
+      "DisplayVersion": "4.6.1055",
+      "InstallDate": null,
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": "C:\\ProgramData\\Package Cache\\{cb2c12b3-4bbd-487c-8a02-2af811a76cba}\\NDP461-DevPack-KB3105179-ENU.exe,0",
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft .NET Framework 4.6.1 SDK",
+      "DisplayVersion": "4.6.01055",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft .NET Framework 4.6.1 SDK (Deutsch)",
+      "DisplayVersion": "4.6.01055",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft .NET Framework 4.6.1 Targeting Pack",
+      "DisplayVersion": "4.6.01055",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft .NET Framework 4.6.1 Targeting Pack (ENU)",
+      "DisplayVersion": "4.6.01055",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft .NET Framework 4.6.2 SDK",
+      "DisplayVersion": "4.6.01590",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft .NET Framework 4.6.2 SDK (Deutsch)",
+      "DisplayVersion": "4.6.01590",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft .NET Framework 4.6.2 Targeting Pack",
+      "DisplayVersion": "4.6.01590",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft .NET Framework 4.6.2 Targeting Pack (ENU)",
+      "DisplayVersion": "4.6.01590",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft .NET Framework 4.7 SDK",
+      "DisplayVersion": "4.7.02046",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft .NET Framework 4.7 SDK (Deutsch)",
+      "DisplayVersion": "4.7.02046",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft .NET Framework 4.7 Targeting Pack",
+      "DisplayVersion": "4.7.02046",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft .NET Framework 4.7 Targeting Pack (ENU)",
+      "DisplayVersion": "4.7.02046",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (ENU)",
+      "DisplayVersion": "4.6.01604",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft ASP.NET Web Tools Packages 15.0 - DEU",
+      "DisplayVersion": "1.0.20816.0",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft ASP.NET Web Tools Packages 15.0 - ENU",
+      "DisplayVersion": "1.0.20816.0",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft NetStandard SDK",
+      "DisplayVersion": "15.0.51105",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft Portable Library Multi-Targeting Pack",
+      "DisplayVersion": "15.0.26621.02",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft Portable Library Multi-Targeting Pack Language Pack - deu",
+      "DisplayVersion": "15.0.26621.02",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft Portable Library Multi-Targeting Pack Language Pack - enu",
+      "DisplayVersion": "15.0.26621.02",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft VC++ redistributables repacked.",
+      "DisplayVersion": "12.0.0.0",
+      "InstallDate": "20171027",
+      "Publisher": "Intel Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft Visual C++ 2005 Redistributable",
+      "DisplayVersion": "8.0.61001",
+      "InstallDate": "20171103",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17",
+      "DisplayVersion": "9.0.30729",
+      "InstallDate": "20171127",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148",
+      "DisplayVersion": "9.0.30729.4148",
+      "InstallDate": "20171103",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219",
+      "DisplayVersion": "10.0.40219",
+      "InstallDate": "20171103",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.50727",
+      "DisplayVersion": "11.0.50727.1",
+      "InstallDate": null,
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": "C:\\ProgramData\\Package Cache\\{15134cb0-b767-4960-a911-f2d16ae54797}\\vcredist_x64.exe,0",
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.50727",
+      "DisplayVersion": "11.0.50727.1",
+      "InstallDate": null,
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": "C:\\ProgramData\\Package Cache\\{22154f09-719a-4619-bb71-5b3356999fbf}\\vcredist_x86.exe,0",
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.50727",
+      "DisplayVersion": "11.0.50727",
+      "InstallDate": "20171030",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.50727",
+      "DisplayVersion": "11.0.50727",
+      "InstallDate": "20171030",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005",
+      "DisplayVersion": "12.0.21005.1",
+      "InstallDate": null,
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": "C:\\ProgramData\\Package Cache\\{7f51bdb9-ee21-49ee-94d6-90afc321780e}\\vcredist_x64.exe,0",
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005",
+      "DisplayVersion": "12.0.21005.1",
+      "InstallDate": null,
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": "C:\\ProgramData\\Package Cache\\{ce085a78-074e-4823-8dc1-8a721b94b76d}\\vcredist_x86.exe,0",
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005",
+      "DisplayVersion": "12.0.21005",
+      "InstallDate": "20171027",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005",
+      "DisplayVersion": "12.0.21005",
+      "InstallDate": "20171027",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft Visual C++ 2017 Redistributable (x64) - 14.11.25325",
+      "DisplayVersion": "14.11.25325.0",
+      "InstallDate": null,
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": "C:\\ProgramData\\Package Cache\\{6c6356fe-cbfa-4944-9bed-a9e99f45cb7a}\\VC_redist.x64.exe,0",
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft Visual C++ 2017 Redistributable (x86) - 14.11.25325",
+      "DisplayVersion": "14.11.25325.0",
+      "InstallDate": null,
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": "C:\\ProgramData\\Package Cache\\{404c9c27-8377-4fd1-b607-7ca635db4e49}\\VC_redist.x86.exe,0",
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft Visual C++ 2017 x86 Additional Runtime - 14.11.25325",
+      "DisplayVersion": "14.11.25325",
+      "InstallDate": "20171029",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.11.25325",
+      "DisplayVersion": "14.11.25325",
+      "InstallDate": "20171029",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft Visual Studio 2017 Tools for Unity",
+      "DisplayVersion": "3.4.0.2",
+      "InstallDate": "20171029",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft Visual Studio Setup Configuration",
+      "DisplayVersion": "1.12.134.36697",
+      "InstallDate": "20171029",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft Windows 10 Education ",
+      "DisplayVersion": "",
+      "InstallDate": "",
+      "Publisher": "Microsoft",
+      "DisplayIconPath": "",
+      "Category": "OperatingSystem"
+    },
+    {
+      "DisplayName": "Microsoft Windows Communication Foundation Diagnostic Pack for x86",
+      "DisplayVersion": "15.0.26621",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft-System-CLR-Typen für SQL Server 2017 CTP2.1",
+      "DisplayVersion": "14.0.600.250",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft_VC80_CRT_x86",
+      "DisplayVersion": "8.0.50727.4053",
+      "InstallDate": "20171103",
+      "Publisher": "Adobe",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft_VC90_CRT_x86",
+      "DisplayVersion": "1.00.0000",
+      "InstallDate": "20171103",
+      "Publisher": "Adobe",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft_VC90_MFCLOC_x86",
+      "DisplayVersion": "1.00.0000",
+      "InstallDate": "20171103",
+      "Publisher": "Adobe",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Microsoft_VC90_MFC_x86",
+      "DisplayVersion": "1.00.0000",
+      "InstallDate": "20171103",
+      "Publisher": "Adobe",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Mozilla Firefox 57.0.2 (x86 de)",
+      "DisplayVersion": "57.0.2",
+      "InstallDate": null,
+      "Publisher": "Mozilla",
+      "DisplayIconPath": "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe,0",
+      "Category": ""
+    },
+    {
+      "DisplayName": "NVIDIA Stereoscopic 3D Driver",
+      "DisplayVersion": "7.17.13.7500",
+      "InstallDate": null,
+      "Publisher": "NVIDIA Corporation",
+      "DisplayIconPath": "C:\\Program Files (x86)\\NVIDIA Corporation\\3D Vision\\nvstreg.exe",
+      "Category": ""
+    },
+    {
+      "DisplayName": "Office 16 Click-to-Run Extensibility Component",
+      "DisplayVersion": "16.0.8730.2127",
+      "InstallDate": "20171214",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Office 16 Click-to-Run Localization Component",
+      "DisplayVersion": "16.0.8730.2127",
+      "InstallDate": "20171214",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Overwatch",
+      "DisplayVersion": null,
+      "InstallDate": null,
+      "Publisher": "Blizzard Entertainment",
+      "DisplayIconPath": "E:\\Games\\Overwatch\\Overwatch.exe",
+      "Category": ""
+    },
+    {
+      "DisplayName": "PDF Settings CS6",
+      "DisplayVersion": "11.0",
+      "InstallDate": "20171103",
+      "Publisher": "Adobe Systems Incorporated",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Paket zur Festlegung von Zielversionen für Microsoft .NET Framework 4.6.2 (Deutsch)",
+      "DisplayVersion": "4.6.01590",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Paket zur Festlegung von Zielversionen von Microsoft .NET Framework 4.7 (Deutsch)",
+      "DisplayVersion": "4.7.02046",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Plantronics® GameCom 780/788 Software for Dolby® Headphone",
+      "DisplayVersion": "3.20.0001",
+      "InstallDate": "20171028",
+      "Publisher": "Plantronics",
+      "DisplayIconPath": "C:\\Windows\\GameCom780.ico",
+      "Category": ""
+    },
+    {
+      "DisplayName": "PunkBuster Services",
+      "DisplayVersion": "0.991",
+      "InstallDate": null,
+      "Publisher": "Even Balance, Inc.",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "ROCCAT  KoneXTD Driver",
+      "DisplayVersion": "1.02.002",
+      "InstallDate": "20171103",
+      "Publisher": "Roccat GmbH",
+      "DisplayIconPath": "C:\\WINDOWS\\Installer\\{48725548-E470-4816-99DD-6667EABAB982}\\ARPPRODUCTICON.exe",
+      "Category": ""
+    },
+    {
+      "DisplayName": "ROCCAT Kone XTD Mouse Driver",
+      "DisplayVersion": null,
+      "InstallDate": null,
+      "Publisher": "Roccat GmbH",
+      "DisplayIconPath": "\"C:\\Program Files (x86)\\ROCCAT\\Kone XTD Mouse\\Icon.ico\"",
+      "Category": ""
+    },
+    {
+      "DisplayName": "Realtek Ethernet Controller Driver",
+      "DisplayVersion": "10.10.714.2016",
+      "InstallDate": "20171028",
+      "Publisher": "Realtek",
+      "DisplayIconPath": "C:\\Program Files (x86)\\Realtek\\NICDRV_8169\\ICON\\remove.ico",
+      "Category": ""
+    },
+    {
+      "DisplayName": "Realtek High Definition Audio Driver",
+      "DisplayVersion": "6.0.1.8105",
+      "InstallDate": null,
+      "Publisher": "Realtek Semiconductor Corp.",
+      "DisplayIconPath": "C:\\Program Files\\Realtek\\Audio\\HDA\\RtlUpd64.exe",
+      "Category": ""
+    },
+    {
+      "DisplayName": "Secure Eraser",
+      "DisplayVersion": "5.0.0.1",
+      "InstallDate": "20171128",
+      "Publisher": "ASCOMP Software GmbH",
+      "DisplayIconPath": "C:\\Program Files (x86)\\ASCOMP Software\\Secure Eraser\\sEraser.exe",
+      "Category": ""
+    },
+    {
+      "DisplayName": "Steam",
+      "DisplayVersion": "2.10.91.91",
+      "InstallDate": null,
+      "Publisher": "Valve Corporation",
+      "DisplayIconPath": "E:\\Games\\Steam\\uninstall.exe",
+      "Category": ""
+    },
+    {
+      "DisplayName": "Unity",
+      "DisplayVersion": "2017.2.0f3",
+      "InstallDate": null,
+      "Publisher": "Unity Technologies ApS",
+      "DisplayIconPath": "C:\\Program Files\\Unity\\Editor\\Unity.exe",
+      "Category": ""
+    },
+    {
+      "DisplayName": "Update for  (KB2504637)",
+      "DisplayVersion": "1",
+      "InstallDate": null,
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "Uplay",
+      "DisplayVersion": "2.0",
+      "InstallDate": null,
+      "Publisher": "Ubisoft",
+      "DisplayIconPath": "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\Uplay.exe",
+      "Category": ""
+    },
+    {
+      "DisplayName": "bl",
+      "DisplayVersion": "1.0.0",
+      "InstallDate": "20171103",
+      "Publisher": "Your Company Name",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "icecap_collection_neutral",
+      "DisplayVersion": "15.0.26621",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "icecap_collectionresources",
+      "DisplayVersion": "15.0.26621",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "icecap_collectionresources",
+      "DisplayVersion": "15.0.26621",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "icecap_collectionresourcesx64",
+      "DisplayVersion": "15.0.26621",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "icecap_collectionresourcesx64",
+      "DisplayVersion": "15.0.26621",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "ph",
+      "DisplayVersion": "1.0.0",
+      "InstallDate": "20171103",
+      "Publisher": "Your Company Name",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "vcpp_crt.redist.clickonce",
+      "DisplayVersion": "14.11.25325",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "vcpp_crt.redist.clickonce",
+      "DisplayVersion": "14.11.25325",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "vs_BlendMsi",
+      "DisplayVersion": "15.0.26621",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "vs_FileTracker_Singleton",
+      "DisplayVersion": "15.0.26621",
+      "InstallDate": "20171029",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "vs_SQLClickOnceBootstrappermsi",
+      "DisplayVersion": "15.0.26621",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "vs_clickoncebootstrappermsi",
+      "DisplayVersion": "15.0.26621",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "vs_clickoncebootstrappermsires",
+      "DisplayVersion": "15.0.26621",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "vs_clickoncesigntoolmsi",
+      "DisplayVersion": "15.0.26621",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "vs_communitymsi",
+      "DisplayVersion": "15.0.26711",
+      "InstallDate": "20171029",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "vs_communitymsires",
+      "DisplayVersion": "15.0.26621",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "vs_communitymsires",
+      "DisplayVersion": "15.0.26621",
+      "InstallDate": "20171029",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "vs_devenvmsi",
+      "DisplayVersion": "15.0.26621",
+      "InstallDate": "20171029",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "vs_filehandler_amd64",
+      "DisplayVersion": "15.0.26711",
+      "InstallDate": "20171029",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "vs_filehandler_x86",
+      "DisplayVersion": "15.0.26711",
+      "InstallDate": "20171029",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "vs_minshellinteropmsi",
+      "DisplayVersion": "15.0.26621",
+      "InstallDate": "20171029",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "vs_minshellmsi",
+      "DisplayVersion": "15.0.26906",
+      "InstallDate": "20171029",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "vs_minshellmsires",
+      "DisplayVersion": "15.0.26621",
+      "InstallDate": "20171029",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "vs_minshellmsires",
+      "DisplayVersion": "15.0.26621",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    },
+    {
+      "DisplayName": "vs_tipsmsi",
+      "DisplayVersion": "15.0.26621",
+      "InstallDate": "20171126",
+      "Publisher": "Microsoft Corporation",
+      "DisplayIconPath": null,
+      "Category": ""
+    }
+  ]
+}

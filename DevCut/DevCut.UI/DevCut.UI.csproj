@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3AD19849-3FF7-47E0-83D7-7F4A2870BFB2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DevCut.UI</RootNamespace>
+    <AssemblyName>DevCut.UI</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Expression.Interactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Windows.Interactivity.WPF.2.0.20525\lib\net40\Microsoft.Expression.Interactions.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Interactivity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Windows.Interactivity.WPF.2.0.20525\lib\net40\System.Windows.Interactivity.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Converter\CornerRadiusConverter.cs" />
+    <Compile Include="Events\NavigationEventArgs.cs" />
+    <Compile Include="IContentControl.cs" />
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Commands\DelegateCommand.cs" />
+    <Compile Include="Models\MenuItemModel.cs" />
+    <Compile Include="TemplateSelector2.cs" />
+    <Compile Include="TemplateSelector.cs" />
+    <Compile Include="Models\CardModel.cs" />
+    <Compile Include="ViewModels\CategorieOverviewViewModel.cs" />
+    <Compile Include="ViewModels\FavoritesTabItemViewModel.cs" />
+    <Compile Include="ViewModels\MenuItemViewModel.cs" />
+    <Compile Include="ViewModels\MainViewModel.cs" />
+    <Compile Include="ViewModels\MenuViewModel.cs" />
+    <Compile Include="ViewModels\ApplicationOverviewViewModel.cs" />
+    <Compile Include="ViewModels\ShortcutsViewModel.cs" />
+    <Compile Include="ViewModels\ShortcutViewModel.cs" />
+    <Compile Include="Views\ListControl.xaml.cs">
+      <DependentUpon>ListControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\CardsControl.xaml.cs">
+      <DependentUpon>CardsControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\NavigationControl.xaml.cs">
+      <DependentUpon>NavigationControl.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="Styles\CardStyles.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Styles\Colors.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\ListControl.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\CardsControl.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\NavigationControl.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Search-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Settings-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Data Configuration-52.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Settings-64_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DevCut.Contracts\DevCut.Contracts.csproj">
+      <Project>{3fe5f456-be55-468c-a87e-aa5c389e75ff}</Project>
+      <Name>DevCut.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DevCut.Data\DevCut.Data.csproj">
+      <Project>{634b75d8-864e-4215-b769-e1deb30b6aa1}</Project>
+      <Name>DevCut.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DevCut.Logic\DevCut.Logic.csproj">
+      <Project>{334b1ec4-3bec-412b-bbf6-a66b89861b94}</Project>
+      <Name>DevCut.Logic</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\icons8-home-filled-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\icons8-Settings Filled-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\icons8-Star Filled Filled-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\icons8-Code Filled-100.png" />
+    <Resource Include="Resources\icons8-Design Filled-100.png" />
+    <Resource Include="Resources\icons8-Device Manager Filled-100.png" />
+    <Resource Include="Resources\icons8-Game Controller Filled-100.png" />
+    <Resource Include="Resources\icons8-Internet Filled-100.png" />
+    <Resource Include="Resources\icons8-Search Filled-100.png" />
+    <Resource Include="Resources\icons8-System Task Filled-100.png" />
+    <Resource Include="Resources\icons8-Windows8 Filled-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\icons8-plus-math-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\icons8-star-100.png" />
+    <Resource Include="Resources\icons8-star-filled-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\icons8-pencil-100.png" />
+    <Resource Include="Resources\icons8-trash-100.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

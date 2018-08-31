@@ -1,0 +1,7 @@
+Shortcuts-Quellen:
+
+http://www.dofactory.com/reference/visual-studio-shortcuts   VisualStudio
+https://support.apple.com/de-de/HT201236     MACOS
+https://support.microsoft.com/de-de/help/12445/windows-keyboard-shortcuts	Windows
+https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf 	IntelliJ
+https://www.shortcutworld.com/index.php
